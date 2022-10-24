@@ -1,0 +1,4006 @@
+Warm start either not set or it is yet to warm up.
+Initializing using arguments from init or as a default zero matrix
+Starting optimization for lambda_A: 0.0001 lambda_rho: 0.0001
+Iter    objective   convergence_count   no_progress_count
+    0    0.174357773    0   0
+   10    0.172149855    0   0
+   20    0.170987465    0   0
+   30    0.170279613    0   0
+   40    0.169792619    0   0
+   50    0.169422195    0   0
+   60    0.169121057    0   0
+   70    0.168867181    0   0
+   80    0.168645726    0   0
+   90    0.168449876    0   0
+  100    0.168275158    0   0
+  110    0.168117286    0   0
+  120    0.167973317    0   0
+  130    0.167841117    0   0
+  140    0.167720112    0   0
+  150    0.167609320    0   0
+  160    0.167508419    4   0
+Solution converged in 166 iterations with final
+                                            objective=0.167451773, slow progress with global relative
+                                            objective=0.000009274<=1e-05 for 10 non-consecutive
+                                            iterations
+  166    0.167451773    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 7.498942093324559e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.165339053    0   0
+   10    0.165025297    0   0
+   20    0.164766324    0   0
+   30    0.164546365    0   0
+   40    0.164355950    0   0
+   50    0.164188926    0   0
+   60    0.164040734    0   0
+   70    0.163908044    0   0
+   80    0.163788383    0   0
+   90    0.163679743    0   0
+  100    0.163580675    6   0
+Solution converged in 104 iterations with final
+                                            objective=0.163543447, slow progress with global relative
+                                            objective=0.000009186<=1e-05 for 10 non-consecutive
+                                            iterations
+  104    0.163543447    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 5.623413251903491e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.160886240    0   0
+   10    0.160536186    0   0
+   20    0.160251295    0   0
+   30    0.160012173    0   0
+   40    0.159807182    0   0
+   50    0.159628684    0   0
+   60    0.159471475    0   0
+   70    0.159331693    0   0
+   80    0.159206419    0   0
+   90    0.159093269    0   0
+  100    0.158990491    2   0
+Solution converged in 108 iterations with final
+                                            objective=0.158914764, slow progress with global relative
+                                            objective=0.000009175<=1e-05 for 10 non-consecutive
+                                            iterations
+  108    0.158914764    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 4.216965034285822e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.155706987    0   0
+   10    0.155337519    0   0
+   20    0.155042025    0   0
+   30    0.154797066    0   0
+   40    0.154588645    0   0
+   50    0.154407889    0   0
+   60    0.154248903    0   0
+   70    0.154107584    0   0
+   80    0.153980940    0   0
+   90    0.153866598    0   0
+  100    0.153762606    1   0
+Solution converged in 109 iterations with final
+                                            objective=0.153676796, slow progress with global relative
+                                            objective=0.000009207<=1e-05 for 10 non-consecutive
+                                            iterations
+  109    0.153676796    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 3.1622776601683795e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.149990377    0   0
+   10    0.149618521    0   0
+   20    0.149326571    0   0
+   30    0.149086656    0   0
+   40    0.148883537    0   0
+   50    0.148707938    0   0
+   60    0.148553614    0   0
+   70    0.148416354    0   0
+   80    0.148293063    0   0
+   90    0.148181312    0   0
+  100    0.148079236    3   0
+Solution converged in 107 iterations with final
+                                            objective=0.148012790, slow progress with global relative
+                                            objective=0.000009258<=1e-05 for 10 non-consecutive
+                                            iterations
+  107    0.148012790    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 2.3713737056616554e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.144012619    0   0
+   10    0.143646428    0   0
+   20    0.143363194    0   0
+   30    0.143131870    0   0
+   40    0.142936404    0   0
+   50    0.142767375    0   0
+   60    0.142618490    0   0
+   70    0.142485755    0   0
+   80    0.142366088    0   0
+   90    0.142257603    0   0
+  100    0.142158558    6   0
+Solution converged in 104 iterations with final
+                                            objective=0.142121293, slow progress with global relative
+                                            objective=0.000009198<=1e-05 for 10 non-consecutive
+                                            iterations
+  104    0.142121293    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 1.778279410038923e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.137952512    0   0
+   10    0.137600165    0   0
+   20    0.137331224    0   0
+   30    0.137112494    0   0
+   40    0.136927734    0   0
+   50    0.136767695    0   0
+   60    0.136626701    0   0
+   70    0.136500841    0   0
+   80    0.136387370    0   0
+   90    0.136284142    2   0
+Solution converged in 98 iterations with final
+                                            objective=0.136207911, slow progress with global relative
+                                            objective=0.000009246<=1e-05 for 10 non-consecutive
+                                            iterations
+   98    0.136207911    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 1.333521432163324e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.132032289    0   0
+   10    0.131701717    0   0
+   20    0.131451259    0   0
+   30    0.131248295    0   0
+   40    0.131076775    0   0
+   50    0.130928001    0   0
+   60    0.130796631    0   0
+   70    0.130679043    0   0
+   80    0.130572704    0   0
+   90    0.130475872    9   0
+Solution converged in 91 iterations with final
+                                            objective=0.130466657, slow progress with global relative
+                                            objective=0.000009216<=1e-05 for 10 non-consecutive
+                                            iterations
+   91    0.130466657    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 1e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.126436573    0   0
+   10    0.126132340    0   0
+   20    0.125902188    0   0
+   30    0.125715597    0   0
+   40    0.125557923    0   0
+   50    0.125420981    0   0
+   60    0.125299967    0   0
+   70    0.125191529    0   0
+   80    0.125093340    7   0
+Solution converged in 83 iterations with final
+                                            objective=0.125065634, slow progress with global relative
+                                            objective=0.000009152<=1e-05 for 10 non-consecutive
+                                            iterations
+   83    0.125065634    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 7.498942093324558e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.121292220    0   0
+   10    0.121015990    0   0
+   20    0.120805182    0   0
+   30    0.120633140    0   0
+   40    0.120487001    0   0
+   50    0.120359572    0   0
+   60    0.120246498    0   0
+   70    0.120144882    3   0
+Solution converged in 77 iterations with final
+                                            objective=0.120079389, slow progress with global relative
+                                            objective=0.000009098<=1e-05 for 10 non-consecutive
+                                            iterations
+   77    0.120079389    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 5.623413251903491e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.116633415    0   0
+   10    0.116386110    0   0
+   20    0.116194404    0   0
+   30    0.116036229    0   0
+   40    0.115900720    0   0
+   50    0.115781814    0   0
+   60    0.115675651    0   0
+   70    0.115579674    9   0
+Solution converged in 71 iterations with final
+                                            objective=0.115570559, slow progress with global relative
+                                            objective=0.000009115<=1e-05 for 10 non-consecutive
+                                            iterations
+   71    0.115570559    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 4.216965034285822e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.112492421    0   0
+   10    0.112269865    0   0
+   20    0.112093458    0   0
+   30    0.111945455    0   0
+   40    0.111817022    0   0
+   50    0.111703162    0   0
+   60    0.111600548    2   0
+Solution converged in 68 iterations with final
+                                            objective=0.111525056, slow progress with global relative
+                                            objective=0.000009151<=1e-05 for 10 non-consecutive
+                                            iterations
+   68    0.111525056    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 3.162277660168379e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.108815376    0   0
+   10    0.108614857    0   0
+   20    0.108450769    0   0
+   30    0.108309854    0   0
+   40    0.108185329    0   0
+   50    0.108073178    0   0
+   60    0.107970810    2   0
+Solution converged in 68 iterations with final
+                                            objective=0.107894731, slow progress with global relative
+                                            objective=0.000009254<=1e-05 for 10 non-consecutive
+                                            iterations
+   68    0.107894731    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 2.3713737056616552e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.105529608    0   0
+   10    0.105347167    0   0
+   20    0.105191962    0   0
+   30    0.105054907    0   0
+   40    0.104931176    0   0
+   50    0.104817849    0   0
+   60    0.104712964    0   0
+   70    0.104615144    8   0
+Solution converged in 72 iterations with final
+                                            objective=0.104596334, slow progress with global relative
+                                            objective=0.000009375<=1e-05 for 10 non-consecutive
+                                            iterations
+   72    0.104596334    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 1.778279410038923e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.102534982    0   0
+   10    0.102367155    0   0
+   20    0.102218664    0   0
+   30    0.102083856    0   0
+   40    0.101959630    0   0
+   50    0.101844011    0   0
+   60    0.101735687    0   0
+   70    0.101633663    2   0
+Solution converged in 78 iterations with final
+                                            objective=0.101556060, slow progress with global relative
+                                            objective=0.000009517<=1e-05 for 10 non-consecutive
+                                            iterations
+   78    0.101556060    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 1.333521432163324e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.099755423    0   0
+   10    0.099598696    0   0
+   20    0.099455547    0   0
+   30    0.099322662    0   0
+   40    0.099198232    0   0
+   50    0.099081052    0   0
+   60    0.098970288    0   0
+   70    0.098865234    0   0
+   80    0.098765321    5   0
+Solution converged in 85 iterations with final
+                                            objective=0.098717151, slow progress with global relative
+                                            objective=0.000009542<=1e-05 for 10 non-consecutive
+                                            iterations
+   85    0.098717151    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 1e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.097137147    0   0
+   10    0.096990249    0   0
+   20    0.096853133    0   0
+   30    0.096723960    0   0
+   40    0.096601618    0   0
+   50    0.096485345    0   0
+   60    0.096374594    0   0
+   70    0.096268913    0   0
+   80    0.096167909    3   0
+Solution converged in 87 iterations with final
+                                            objective=0.096099807, slow progress with global relative
+                                            objective=0.000009604<=1e-05 for 10 non-consecutive
+                                            iterations
+   87    0.096099807    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 7.498942093324558e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.094717114    0   0
+   10    0.094577716    0   0
+   20    0.094445743    0   0
+   30    0.094320121    0   0
+   40    0.094200186    0   0
+   50    0.094085473    0   0
+   60    0.093975588    0   0
+   70    0.093870183    0   0
+   80    0.093768973    2   0
+Solution converged in 88 iterations with final
+                                            objective=0.093690840, slow progress with global relative
+                                            objective=0.000009634<=1e-05 for 10 non-consecutive
+                                            iterations
+   88    0.093690840    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 5.62341325190349e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.092485263    0   0
+   10    0.092352668    0   0
+   20    0.092225904    0   0
+   30    0.092104345    0   0
+   40    0.091987580    0   0
+   50    0.091875259    0   0
+   60    0.091767097    0   0
+   70    0.091662868    0   0
+   80    0.091562347    4   0
+Solution converged in 86 iterations with final
+                                            objective=0.091503724, slow progress with global relative
+                                            objective=0.000009685<=1e-05 for 10 non-consecutive
+                                            iterations
+   86    0.091503724    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 4.2169650342858225e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.090462138    0   0
+   10    0.090335488    0   0
+   20    0.090213584    0   0
+   30    0.090096046    0   0
+   40    0.089982592    0   0
+   50    0.089872993    0   0
+   60    0.089767031    0   0
+   70    0.089664513    0   0
+   80    0.089565278    7   0
+Solution converged in 83 iterations with final
+                                            objective=0.089536123, slow progress with global relative
+                                            objective=0.000009688<=1e-05 for 10 non-consecutive
+                                            iterations
+   83    0.089536123    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 3.162277660168379e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.088646168    0   0
+   10    0.088525356    0   0
+   20    0.088408506    0   0
+   30    0.088295358    0   0
+   40    0.088185715    0   0
+   50    0.088079400    0   0
+   60    0.087976252    0   0
+   70    0.087876128    5   0
+Solution converged in 75 iterations with final
+                                            objective=0.087827159, slow progress with global relative
+                                            objective=0.000009737<=1e-05 for 10 non-consecutive
+                                            iterations
+   75    0.087827159    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 2.3713737056616554e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.087080123    0   0
+   10    0.086963941    0   0
+   20    0.086851193    0   0
+   30    0.086741691    0   0
+   40    0.086635287    0   0
+   50    0.086531856    0   0
+   60    0.086431280    3   0
+Solution converged in 67 iterations with final
+                                            objective=0.086362509, slow progress with global relative
+                                            objective=0.000009744<=1e-05 for 10 non-consecutive
+                                            iterations
+   67    0.086362509    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 1.7782794100389227e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.085745441    0   0
+   10    0.085633536    0   0
+   20    0.085524687    0   0
+   30    0.085418749    0   0
+   40    0.085315606    0   0
+   50    0.085215156    3   0
+Solution converged in 57 iterations with final
+                                            objective=0.085146387, slow progress with global relative
+                                            objective=0.000009748<=1e-05 for 10 non-consecutive
+                                            iterations
+   57    0.085146387    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 1.333521432163324e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.084645116    0   0
+   10    0.084536740    0   0
+   20    0.084431153    0   0
+   30    0.084328245    0   0
+   40    0.084227924    4   0
+Solution converged in 46 iterations with final
+                                            objective=0.084168930, slow progress with global relative
+                                            objective=0.000009771<=1e-05 for 10 non-consecutive
+                                            iterations
+   46    0.084168930    10   0
+Starting optimization for lambda_A: 0.0001 lambda_rho: 1e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.083768039    0   0
+   10    0.083662267    0   0
+   20    0.083559105    0   0
+   30    0.083458461    2   0
+Solution converged in 38 iterations with final
+                                            objective=0.083379698, slow progress with global relative
+                                            objective=0.000009762<=1e-05 for 10 non-consecutive
+                                            iterations
+   38    0.083379698    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 0.0001
+Iter    objective   convergence_count   no_progress_count
+    0    1.312072623    0   0
+   10    0.327257483    0   0
+   20    0.225925365    0   0
+   30    0.199195604    0   0
+   40    0.188116426    0   0
+   50    0.182269533    0   0
+   60    0.178573297    0   0
+   70    0.176007939    0   0
+   80    0.174260862    0   0
+   90    0.172950703    0   0
+  100    0.171894443    0   0
+  110    0.171096563    0   0
+  120    0.170470843    0   0
+  130    0.169946340    0   0
+  140    0.169501241    0   0
+  150    0.169133592    0   0
+  160    0.168821847    0   0
+  170    0.168543068    0   0
+  180    0.168297080    0   0
+  190    0.168078287    0   0
+  200    0.167884279    0   0
+  210    0.167711726    0   0
+  220    0.167554707    0   0
+  230    0.167412760    0   0
+  240    0.167288087    0   0
+  250    0.167173771    0   0
+  260    0.167067270    0   0
+  270    0.166968663    7   0
+Solution converged in 273 iterations with final
+                                            objective=0.166940194, slow progress with global relative
+                                            objective=0.000009428<=1e-05 for 10 non-consecutive
+                                            iterations
+  273    0.166940194    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 7.498942093324559e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.163008769    0   0
+   10    0.162885670    0   0
+   20    0.162785962    5   0
+Solution converged in 25 iterations with final
+                                            objective=0.162742338, slow progress with global relative
+                                            objective=0.000008445<=1e-05 for 10 non-consecutive
+                                            iterations
+   25    0.162742338    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 5.623413251903491e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.159596853    0   0
+   10    0.159254194    0   0
+   20    0.158993731    0   0
+   30    0.158787064    0   0
+   40    0.158618020    0   0
+   50    0.158477145    0   0
+   60    0.158357713    0   0
+   70    0.158255121    3   0
+Solution converged in 77 iterations with final
+                                            objective=0.158191412, slow progress with global relative
+                                            objective=0.000008738<=1e-05 for 10 non-consecutive
+                                            iterations
+   77    0.158191412    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 4.216965034285822e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.154860417    0   0
+   10    0.154471433    0   0
+   20    0.154173638    0   0
+   30    0.153936033    0   0
+   40    0.153740924    0   0
+   50    0.153577345    0   0
+   60    0.153437627    0   0
+   70    0.153316455    0   0
+   80    0.153210056    0   0
+Solution converged in 90 iterations with final
+                                            objective=0.153115591, slow progress with global relative
+                                            objective=0.000008971<=1e-05 for 10 non-consecutive
+                                            iterations
+   90    0.153115591    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 3.1622776601683795e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.149425270    0   0
+   10    0.149034397    0   0
+   20    0.148736881    0   0
+   30    0.148498709    0   0
+   40    0.148301352    0   0
+   50    0.148134319    0   0
+   60    0.147990042    0   0
+   70    0.147863744    0   0
+   80    0.147752043    0   0
+   90    0.147652273    5   0
+Solution converged in 95 iterations with final
+                                            objective=0.147606228, slow progress with global relative
+                                            objective=0.000009021<=1e-05 for 10 non-consecutive
+                                            iterations
+   95    0.147606228    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 2.3713737056616554e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.143636299    0   0
+   10    0.143256725    0   0
+   20    0.142969411    0   0
+   30    0.142738835    0   0
+   40    0.142547243    0   0
+   50    0.142383837    0   0
+   60    0.142241552    0   0
+   70    0.142115951    0   0
+   80    0.142003878    0   0
+   90    0.141903070    4   0
+Solution converged in 96 iterations with final
+                                            objective=0.141847257, slow progress with global relative
+                                            objective=0.000009082<=1e-05 for 10 non-consecutive
+                                            iterations
+   96    0.141847257    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 1.778279410038923e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.137716290    0   0
+   10    0.137354184    0   0
+   20    0.137081860    0   0
+   30    0.136863380    0   0
+   40    0.136680650    0   0
+   50    0.136523676    0   0
+   60    0.136386443    0   0
+   70    0.136264761    0   0
+   80    0.136155666    0   0
+   90    0.136057025    6   0
+Solution converged in 94 iterations with final
+                                            objective=0.136020096, slow progress with global relative
+                                            objective=0.000009109<=1e-05 for 10 non-consecutive
+                                            iterations
+   94    0.136020096    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 1.333521432163324e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.131871696    0   0
+   10    0.131536938    0   0
+   20    0.131285464    0   0
+   30    0.131083089    0   0
+   40    0.130913201    0   0
+   50    0.130766534    0   0
+   60    0.130637504    0   0
+   70    0.130522506    0   0
+   80    0.130418999    2   0
+Solution converged in 88 iterations with final
+                                            objective=0.130343111, slow progress with global relative
+                                            objective=0.000009181<=1e-05 for 10 non-consecutive
+                                            iterations
+   88    0.130343111    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 1e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.126335485    0   0
+   10    0.126027932    0   0
+   20    0.125796504    0   0
+   30    0.125609654    0   0
+   40    0.125452530    0   0
+   50    0.125316633    0   0
+   60    0.125196840    0   0
+   70    0.125089794    0   0
+   80    0.124993186    9   0
+Solution converged in 81 iterations with final
+                                            objective=0.124984023, slow progress with global relative
+                                            objective=0.000009162<=1e-05 for 10 non-consecutive
+                                            iterations
+   81    0.124984023    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 7.498942093324558e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.121227313    0   0
+   10    0.120948126    0   0
+   20    0.120736008    0   0
+   30    0.120563576    0   0
+   40    0.120417645    0   0
+   50    0.120290837    0   0
+   60    0.120178571    0   0
+   70    0.120077895    4   0
+Solution converged in 76 iterations with final
+                                            objective=0.120022205, slow progress with global relative
+                                            objective=0.000009058<=1e-05 for 10 non-consecutive
+                                            iterations
+   76    0.120022205    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 5.623413251903491e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.116586309    0   0
+   10    0.116337825    0   0
+   20    0.116145831    0   0
+   30    0.115987894    0   0
+   40    0.115852924    0   0
+   50    0.115734689    0   0
+   60    0.115629342    0   0
+Solution converged in 70 iterations with final
+                                            objective=0.115534271, slow progress with global relative
+                                            objective=0.000009103<=1e-05 for 10 non-consecutive
+                                            iterations
+   70    0.115534271    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 4.216965034285822e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.112464145    0   0
+   10    0.112240599    0   0
+   20    0.112063834    0   0
+   30    0.111915855    0   0
+   40    0.111787654    0   0
+   50    0.111674160    0   0
+   60    0.111572092    3   0
+Solution converged in 67 iterations with final
+                                            objective=0.111506141, slow progress with global relative
+                                            objective=0.000009173<=1e-05 for 10 non-consecutive
+                                            iterations
+   67    0.111506141    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 3.162277660168379e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.108803477    0   0
+   10    0.108601875    0   0
+   20    0.108437306    0   0
+   30    0.108296247    0   0
+   40    0.108171825    0   0
+   50    0.108059935    0   0
+   60    0.107957891    3   0
+Solution converged in 67 iterations with final
+                                            objective=0.107891341, slow progress with global relative
+                                            objective=0.000009285<=1e-05 for 10 non-consecutive
+                                            iterations
+   67    0.107891341    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 2.3713737056616552e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.105532511    0   0
+   10    0.105349101    0   0
+   20    0.105193378    0   0
+   30    0.105056066    0   0
+   40    0.104932215    0   0
+   50    0.104818887    0   0
+   60    0.104714098    0   0
+   70    0.104616429    9   0
+Solution converged in 71 iterations with final
+                                            objective=0.104607013, slow progress with global relative
+                                            objective=0.000009415<=1e-05 for 10 non-consecutive
+                                            iterations
+   71    0.104607013    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 1.778279410038923e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.102551547    0   0
+   10    0.102382844    0   0
+   20    0.102233708    0   0
+   30    0.102098402    0   0
+   40    0.101973758    0   0
+   50    0.101857851    0   0
+   60    0.101749306    0   0
+   70    0.101647094    1   0
+Solution converged in 79 iterations with final
+                                            objective=0.101559896, slow progress with global relative
+                                            objective=0.000009479<=1e-05 for 10 non-consecutive
+                                            iterations
+   79    0.101559896    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 1.333521432163324e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.099760401    0   0
+   10    0.099604167    0   0
+   20    0.099461448    0   0
+   30    0.099328971    0   0
+   40    0.099204907    0   0
+   50    0.099088040    0   0
+   60    0.098977497    0   0
+   70    0.098872638    0   0
+   80    0.098772953    6   0
+Solution converged in 84 iterations with final
+                                            objective=0.098734421, slow progress with global relative
+                                            objective=0.000009564<=1e-05 for 10 non-consecutive
+                                            iterations
+   84    0.098734421    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 1e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.097157741    0   0
+   10    0.097010552    0   0
+   20    0.096873212    0   0
+   30    0.096743850    0   0
+   40    0.096621371    0   0
+   50    0.096505002    0   0
+   60    0.096394141    0   0
+   70    0.096288345    0   0
+   80    0.096187229    3   0
+Solution converged in 87 iterations with final
+                                            objective=0.096119030, slow progress with global relative
+                                            objective=0.000009617<=1e-05 for 10 non-consecutive
+                                            iterations
+   87    0.096119030    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 7.498942093324558e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.094738625    0   0
+   10    0.094599102    0   0
+   20    0.094467016    0   0
+   30    0.094341309    0   0
+   40    0.094221293    0   0
+   50    0.094106483    0   0
+   60    0.093996484    0   0
+   70    0.093890944    0   0
+   80    0.093789593    2   0
+Solution converged in 88 iterations with final
+                                            objective=0.093711345, slow progress with global relative
+                                            objective=0.000009647<=1e-05 for 10 non-consecutive
+                                            iterations
+   88    0.093711345    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 5.62341325190349e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.092507540    0   0
+   10    0.092374844    0   0
+   20    0.092248007    0   0
+   30    0.092126369    0   0
+   40    0.092009505    0   0
+   50    0.091897085    0   0
+   60    0.091788819    0   0
+   70    0.091684468    0   0
+   80    0.091583817    3   0
+Solution converged in 87 iterations with final
+                                            objective=0.091515466, slow progress with global relative
+                                            objective=0.000009662<=1e-05 for 10 non-consecutive
+                                            iterations
+   87    0.091515466    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 4.2169650342858225e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.090473919    0   0
+   10    0.090347573    0   0
+   20    0.090225954    0   0
+   30    0.090108668    0   0
+   40    0.089995430    0   0
+   50    0.089886027    0   0
+   60    0.089780250    0   0
+   70    0.089677894    0   0
+   80    0.089578794    8   0
+Solution converged in 82 iterations with final
+                                            objective=0.089559351, slow progress with global relative
+                                            objective=0.000009706<=1e-05 for 10 non-consecutive
+                                            iterations
+   82    0.089559351    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 3.162277660168379e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.088670760    0   0
+   10    0.088549773    0   0
+   20    0.088432751    0   0
+   30    0.088319436    0   0
+   40    0.088209625    0   0
+   50    0.088103138    0   0
+   60    0.087999817    0   0
+   70    0.087899525    4   0
+Solution converged in 76 iterations with final
+                                            objective=0.087840751, slow progress with global relative
+                                            objective=0.000009724<=1e-05 for 10 non-consecutive
+                                            iterations
+   76    0.087840751    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 2.3713737056616554e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.087093825    0   0
+   10    0.086977790    0   0
+   20    0.086865178    0   0
+   30    0.086755801    0   0
+   40    0.086649513    0   0
+   50    0.086546184    0   0
+   60    0.086445694    3   0
+Solution converged in 67 iterations with final
+                                            objective=0.086376980, slow progress with global relative
+                                            objective=0.000009736<=1e-05 for 10 non-consecutive
+                                            iterations
+   67    0.086376980    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 1.7782794100389227e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.085760058    0   0
+   10    0.085648242    0   0
+   20    0.085539466    0   0
+   30    0.085433592    0   0
+   40    0.085330506    0   0
+   50    0.085230099    3   0
+Solution converged in 57 iterations with final
+                                            objective=0.085161355, slow progress with global relative
+                                            objective=0.000009744<=1e-05 for 10 non-consecutive
+                                            iterations
+   57    0.085161355    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 1.333521432163324e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.084660225    0   0
+   10    0.084551887    0   0
+   20    0.084446330    0   0
+   30    0.084343443    0   0
+   40    0.084243128    4   0
+Solution converged in 46 iterations with final
+                                            objective=0.084184135, slow progress with global relative
+                                            objective=0.000009771<=1e-05 for 10 non-consecutive
+                                            iterations
+   46    0.084184135    10   0
+Starting optimization for lambda_A: 6.951927961775606e-05 lambda_rho: 1e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.083783367    0   0
+   10    0.083677601    0   0
+   20    0.083574440    0   0
+   30    0.083473788    2   0
+Solution converged in 38 iterations with final
+                                            objective=0.083395013, slow progress with global relative
+                                            objective=0.000009763<=1e-05 for 10 non-consecutive
+                                            iterations
+   38    0.083395013    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 0.0001
+Iter    objective   convergence_count   no_progress_count
+    0    1.311675571    0   0
+   10    0.326664972    0   0
+   20    0.225363530    0   0
+   30    0.198747656    0   0
+   40    0.187754943    0   0
+   50    0.181987392    0   0
+   60    0.178345651    0   0
+   70    0.175827068    0   0
+   80    0.174116817    0   0
+   90    0.172831194    0   0
+  100    0.171798549    0   0
+  110    0.171015081    0   0
+  120    0.170410222    0   0
+  130    0.169899639    0   0
+  140    0.169464600    0   0
+  150    0.169107336    0   0
+  160    0.168804462    0   0
+  170    0.168533696    0   0
+  180    0.168297296    0   0
+  190    0.168084748    0   0
+  200    0.167898363    0   0
+  210    0.167729631    0   0
+  220    0.167574937    0   0
+  230    0.167436245    0   0
+  240    0.167314837    0   0
+  250    0.167202485    0   0
+  260    0.167097082    0   0
+  270    0.167000380    8   0
+Solution converged in 272 iterations with final
+                                            objective=0.166982018, slow progress with global relative
+                                            objective=0.000009155<=1e-05 for 10 non-consecutive
+                                            iterations
+  272    0.166982018    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 7.498942093324559e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.162960107    0   0
+   10    0.162842948    0   0
+   20    0.162747744    8   0
+Solution converged in 22 iterations with final
+                                            objective=0.162730648, slow progress with global relative
+                                            objective=0.000008478<=1e-05 for 10 non-consecutive
+                                            iterations
+   22    0.162730648    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 5.623413251903491e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.159543078    0   0
+   10    0.159201926    0   0
+   20    0.158943350    0   0
+   30    0.158738521    0   0
+   40    0.158571146    0   0
+   50    0.158431765    0   0
+   60    0.158313793    0   0
+   70    0.158212435    4   0
+Solution converged in 76 iterations with final
+                                            objective=0.158158141, slow progress with global relative
+                                            objective=0.000008748<=1e-05 for 10 non-consecutive
+                                            iterations
+   76    0.158158141    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 4.216965034285822e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.154809707    0   0
+   10    0.154421152    0   0
+   20    0.154123900    0   0
+   30    0.153886971    0   0
+   40    0.153693021    0   0
+   50    0.153530600    0   0
+   60    0.153392094    0   0
+   70    0.153272096    0   0
+   80    0.153166754    1   0
+Solution converged in 89 iterations with final
+                                            objective=0.153082288, slow progress with global relative
+                                            objective=0.000008962<=1e-05 for 10 non-consecutive
+                                            iterations
+   89    0.153082288    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 3.1622776601683795e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.149388242    0   0
+   10    0.148997161    0   0
+   20    0.148699753    0   0
+   30    0.148461910    0   0
+   40    0.148265011    0   0
+   50    0.148098555    0   0
+   60    0.147954947    0   0
+   70    0.147829331    0   0
+   80    0.147718363    0   0
+   90    0.147619320    6   0
+Solution converged in 94 iterations with final
+                                            objective=0.147582592, slow progress with global relative
+                                            objective=0.000009036<=1e-05 for 10 non-consecutive
+                                            iterations
+   94    0.147582592    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 2.3713737056616554e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.143616856    0   0
+   10    0.143236211    0   0
+   20    0.142948359    0   0
+   30    0.142717520    0   0
+   40    0.142525732    0   0
+   50    0.142362215    0   0
+   60    0.142220227    0   0
+   70    0.142094959    0   0
+   80    0.141983358    0   0
+   90    0.141883022    5   0
+Solution converged in 95 iterations with final
+                                            objective=0.141836610, slow progress with global relative
+                                            objective=0.000009106<=1e-05 for 10 non-consecutive
+                                            iterations
+   95    0.141836610    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 1.778279410038923e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.137712618    0   0
+   10    0.137348905    0   0
+   20    0.137075682    0   0
+   30    0.136856479    0   0
+   40    0.136673192    0   0
+   50    0.136515814    0   0
+   60    0.136378273    0   0
+   70    0.136256433    0   0
+   80    0.136147397    0   0
+   90    0.136048730    6   0
+Solution converged in 94 iterations with final
+                                            objective=0.136011815, slow progress with global relative
+                                            objective=0.000009100<=1e-05 for 10 non-consecutive
+                                            iterations
+   94    0.136011815    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 1.333521432163324e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.131865841    0   0
+   10    0.131530906    0   0
+   20    0.131279370    0   0
+   30    0.131077000    0   0
+   40    0.130907153    0   0
+   50    0.130760587    0   0
+   60    0.130631698    0   0
+   70    0.130516851    0   0
+   80    0.130413517    2   0
+Solution converged in 88 iterations with final
+                                            objective=0.130337766, slow progress with global relative
+                                            objective=0.000009166<=1e-05 for 10 non-consecutive
+                                            iterations
+   88    0.130337766    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 1e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.126331444    0   0
+   10    0.126024008    0   0
+   20    0.125792695    0   0
+   30    0.125606116    0   0
+   40    0.125449129    0   0
+   50    0.125313340    0   0
+   60    0.125193677    0   0
+   70    0.125086806    0   0
+   80    0.124990349    9   0
+Solution converged in 81 iterations with final
+                                            objective=0.124981201, slow progress with global relative
+                                            objective=0.000009147<=1e-05 for 10 non-consecutive
+                                            iterations
+   81    0.124981201    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 7.498942093324558e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.121225386    0   0
+   10    0.120946319    0   0
+   20    0.120734304    0   0
+   30    0.120562019    0   0
+   40    0.120416239    0   0
+   50    0.120289608    0   0
+   60    0.120177525    0   0
+   70    0.120077015    5   0
+Solution converged in 75 iterations with final
+                                            objective=0.120030434, slow progress with global relative
+                                            objective=0.000009138<=1e-05 for 10 non-consecutive
+                                            iterations
+   75    0.120030434    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 5.623413251903491e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.116599145    0   0
+   10    0.116348903    0   0
+   20    0.116155700    0   0
+   30    0.115996892    0   0
+   40    0.115861347    0   0
+   50    0.115742661    0   0
+   60    0.115636937    0   0
+Solution converged in 70 iterations with final
+                                            objective=0.115541486, slow progress with global relative
+                                            objective=0.000009142<=1e-05 for 10 non-consecutive
+                                            iterations
+   70    0.115541486    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 4.216965034285822e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.112472759    0   0
+   10    0.112248635    0   0
+   20    0.112071471    0   0
+   30    0.111923198    0   0
+   40    0.111794822    0   0
+   50    0.111681174    0   0
+   60    0.111578952    3   0
+Solution converged in 67 iterations with final
+                                            objective=0.111512909, slow progress with global relative
+                                            objective=0.000009184<=1e-05 for 10 non-consecutive
+                                            iterations
+   67    0.111512909    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 3.162277660168379e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.108810765    0   0
+   10    0.108608950    0   0
+   20    0.108444211    0   0
+   30    0.108303018    0   0
+   40    0.108178456    0   0
+   50    0.108066445    0   0
+   60    0.107964316    3   0
+Solution converged in 67 iterations with final
+                                            objective=0.107897723, slow progress with global relative
+                                            objective=0.000009290<=1e-05 for 10 non-consecutive
+                                            iterations
+   67    0.107897723    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 2.3713737056616552e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.105539113    0   0
+   10    0.105355621    0   0
+   20    0.105199813    0   0
+   30    0.105062456    0   0
+   40    0.104938582    0   0
+   50    0.104825204    0   0
+   60    0.104720384    0   0
+   70    0.104622690    8   0
+Solution converged in 72 iterations with final
+                                            objective=0.104603913, slow progress with global relative
+                                            objective=0.000009358<=1e-05 for 10 non-consecutive
+                                            iterations
+   72    0.104603913    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 1.778279410038923e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.102546021    0   0
+   10    0.102378230    0   0
+   20    0.102229827    0   0
+   30    0.102095131    0   0
+   40    0.101971036    0   0
+   50    0.101855608    0   0
+   60    0.101747486    0   0
+   70    0.101645663    2   0
+Solution converged in 78 iterations with final
+                                            objective=0.101568219, slow progress with global relative
+                                            objective=0.000009498<=1e-05 for 10 non-consecutive
+                                            iterations
+   78    0.101568219    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 1.333521432163324e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.099770011    0   0
+   10    0.099613493    0   0
+   20    0.099470543    0   0
+   30    0.099337868    0   0
+   40    0.099213648    0   0
+   50    0.099096629    0   0
+   60    0.098985952    0   0
+   70    0.098880953    0   0
+   80    0.098781155    5   0
+Solution converged in 85 iterations with final
+                                            objective=0.098733043, slow progress with global relative
+                                            objective=0.000009531<=1e-05 for 10 non-consecutive
+                                            iterations
+   85    0.098733043    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 1e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.097155087    0   0
+   10    0.097008360    0   0
+   20    0.096871430    0   0
+   30    0.096742440    0   0
+   40    0.096620300    0   0
+   50    0.096504229    0   0
+   60    0.096393653    0   0
+   70    0.096288123    0   0
+   80    0.096187248    3   0
+Solution converged in 87 iterations with final
+                                            objective=0.096119213, slow progress with global relative
+                                            objective=0.000009594<=1e-05 for 10 non-consecutive
+                                            iterations
+   87    0.096119213    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 7.498942093324558e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.094738241    0   0
+   10    0.094599002    0   0
+   20    0.094467180    0   0
+   30    0.094341713    0   0
+   40    0.094221928    0   0
+   50    0.094107327    0   0
+   60    0.093997520    0   0
+   70    0.093892157    0   0
+   80    0.093790967    2   0
+Solution converged in 88 iterations with final
+                                            objective=0.093712846, slow progress with global relative
+                                            objective=0.000009632<=1e-05 for 10 non-consecutive
+                                            iterations
+   88    0.093712846    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 5.62341325190349e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.092508808    0   0
+   10    0.092376288    0   0
+   20    0.092249615    0   0
+   30    0.092128129    0   0
+   40    0.092011411    0   0
+   50    0.091899125    0   0
+   60    0.091790984    0   0
+   70    0.091686750    0   0
+   80    0.091586205    3   0
+Solution converged in 87 iterations with final
+                                            objective=0.091517926, slow progress with global relative
+                                            objective=0.000009652<=1e-05 for 10 non-consecutive
+                                            iterations
+   87    0.091517926    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 4.2169650342858225e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.090476303    0   0
+   10    0.090350067    0   0
+   20    0.090228557    0   0
+   30    0.090111371    0   0
+   40    0.089998223    0   0
+   50    0.089888897    0   0
+   60    0.089783191    0   0
+   70    0.089680903    0   0
+   80    0.089581869    8   0
+Solution converged in 82 iterations with final
+                                            objective=0.089562439, slow progress with global relative
+                                            objective=0.000009699<=1e-05 for 10 non-consecutive
+                                            iterations
+   82    0.089562439    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 3.162277660168379e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.088673847    0   0
+   10    0.088552932    0   0
+   20    0.088435975    0   0
+   30    0.088322713    0   0
+   40    0.088212955    0   0
+   50    0.088106517    0   0
+   60    0.088003244    0   0
+   70    0.087902995    4   0
+Solution converged in 76 iterations with final
+                                            objective=0.087844245, slow progress with global relative
+                                            objective=0.000009720<=1e-05 for 10 non-consecutive
+                                            iterations
+   76    0.087844245    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 2.3713737056616554e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.087097346    0   0
+   10    0.086981356    0   0
+   20    0.086868782    0   0
+   30    0.086759441    0   0
+   40    0.086653187    0   0
+   50    0.086549888    0   0
+   60    0.086449425    3   0
+Solution converged in 67 iterations with final
+                                            objective=0.086380726, slow progress with global relative
+                                            objective=0.000009734<=1e-05 for 10 non-consecutive
+                                            iterations
+   67    0.086380726    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 1.7782794100389227e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.085763836    0   0
+   10    0.085652043    0   0
+   20    0.085543287    0   0
+   30    0.085437432    0   0
+   40    0.085334363    0   0
+   50    0.085233969    4   0
+Solution converged in 56 iterations with final
+                                            objective=0.085174976, slow progress with global relative
+                                            objective=0.000009769<=1e-05 for 10 non-consecutive
+                                            iterations
+   56    0.085174976    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 1.333521432163324e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.084674447    0   0
+   10    0.084565856    0   0
+   20    0.084460055    0   0
+   30    0.084356930    0   0
+   40    0.084256385    3   0
+Solution converged in 47 iterations with final
+                                            objective=0.084187487, slow progress with global relative
+                                            objective=0.000009769<=1e-05 for 10 non-consecutive
+                                            iterations
+   47    0.084187487    10   0
+Starting optimization for lambda_A: 4.8329302385717524e-05 lambda_rho: 1e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.083786701    0   0
+   10    0.083680957    0   0
+   20    0.083577815    0   0
+   30    0.083477180    2   0
+Solution converged in 38 iterations with final
+                                            objective=0.083398418, slow progress with global relative
+                                            objective=0.000009762<=1e-05 for 10 non-consecutive
+                                            iterations
+   38    0.083398418    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 0.0001
+Iter    objective   convergence_count   no_progress_count
+    0    1.311724583    0   0
+   10    0.326692739    0   0
+   20    0.225328531    0   0
+   30    0.198711170    0   0
+   40    0.187716229    0   0
+   50    0.181956200    0   0
+   60    0.178316031    0   0
+   70    0.175794681    0   0
+   80    0.174084846    0   0
+   90    0.172799194    0   0
+  100    0.171766328    0   0
+  110    0.170982145    0   0
+  120    0.170376733    0   0
+  130    0.169864948    0   0
+  140    0.169427919    0   0
+  150    0.169069005    0   0
+  160    0.168765263    0   0
+  170    0.168493854    0   0
+  180    0.168256105    0   0
+  190    0.168042110    0   0
+  200    0.167854124    0   0
+  210    0.167684697    0   0
+  220    0.167529530    0   0
+  230    0.167390894    0   0
+  240    0.167269140    0   0
+  250    0.167156417    0   0
+  260    0.167050758    0   0
+  270    0.166954062    8   0
+Solution converged in 272 iterations with final
+                                            objective=0.166935644, slow progress with global relative
+                                            objective=0.000009189<=1e-05 for 10 non-consecutive
+                                            iterations
+  272    0.166935644    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 7.498942093324559e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.162915201    0   0
+   10    0.162803519    0   0
+Solution converged in 20 iterations with final
+                                            objective=0.162711975, slow progress with global relative
+                                            objective=0.000008455<=1e-05 for 10 non-consecutive
+                                            iterations
+   20    0.162711975    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 5.623413251903491e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.159546394    0   0
+   10    0.159209157    0   0
+   20    0.158951975    0   0
+   30    0.158746901    0   0
+   40    0.158578495    0   0
+   50    0.158437168    0   0
+   60    0.158316778    0   0
+   70    0.158212749    2   0
+Solution converged in 78 iterations with final
+                                            objective=0.158140358, slow progress with global relative
+                                            objective=0.000008630<=1e-05 for 10 non-consecutive
+                                            iterations
+   78    0.158140358    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 4.216965034285822e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.154799600    0   0
+   10    0.154416041    0   0
+   20    0.154121640    0   0
+   30    0.153886268    0   0
+   40    0.153692779    0   0
+   50    0.153530213    0   0
+   60    0.153391297    0   0
+   70    0.153270640    0   0
+   80    0.153164529    0   0
+Solution converged in 90 iterations with final
+                                            objective=0.153070373, slow progress with global relative
+                                            objective=0.000008948<=1e-05 for 10 non-consecutive
+                                            iterations
+   90    0.153070373    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 3.1622776601683795e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.149382791    0   0
+   10    0.148993976    0   0
+   20    0.148696986    0   0
+   30    0.148458716    0   0
+   40    0.148260885    0   0
+   50    0.148093144    0   0
+   60    0.147947986    0   0
+   70    0.147820665    0   0
+   80    0.147707881    0   0
+   90    0.147606966    4   0
+Solution converged in 96 iterations with final
+                                            objective=0.147551278, slow progress with global relative
+                                            objective=0.000009051<=1e-05 for 10 non-consecutive
+                                            iterations
+   96    0.147551278    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 2.3713737056616554e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.143581576    0   0
+   10    0.143204271    0   0
+   20    0.142917319    0   0
+   30    0.142689081    0   0
+   40    0.142499479    0   0
+   50    0.142337834    0   0
+   60    0.142197493    0   0
+   70    0.142073731    0   0
+   80    0.141963500    0   0
+   90    0.141864500    6   0
+Solution converged in 94 iterations with final
+                                            objective=0.141827601, slow progress with global relative
+                                            objective=0.000009090<=1e-05 for 10 non-consecutive
+                                            iterations
+   94    0.141827601    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 1.778279410038923e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.137715383    0   0
+   10    0.137351840    0   0
+   20    0.137078723    0   0
+   30    0.136859618    0   0
+   40    0.136676424    0   0
+   50    0.136519154    0   0
+   60    0.136381753    0   0
+   70    0.136259994    0   0
+   80    0.136150903    0   0
+   90    0.136052189    6   0
+Solution converged in 94 iterations with final
+                                            objective=0.136015245, slow progress with global relative
+                                            objective=0.000009108<=1e-05 for 10 non-consecutive
+                                            iterations
+   94    0.136015245    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 1.333521432163324e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.131878137    0   0
+   10    0.131543391    0   0
+   20    0.131291764    0   0
+   30    0.131089213    0   0
+   40    0.130919146    0   0
+   50    0.130772332    0   0
+   60    0.130643155    0   0
+   70    0.130528007    0   0
+   80    0.130424342    1   0
+Solution converged in 89 iterations with final
+                                            objective=0.130339196, slow progress with global relative
+                                            objective=0.000009116<=1e-05 for 10 non-consecutive
+                                            iterations
+   89    0.130339196    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 1e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.126335160    0   0
+   10    0.126029259    0   0
+   20    0.125798820    0   0
+   30    0.125612807    0   0
+   40    0.125456066    0   0
+   50    0.125320322    0   0
+   60    0.125200596    0   0
+   70    0.125093545    0   0
+   80    0.124996813    8   0
+Solution converged in 82 iterations with final
+                                            objective=0.124978547, slow progress with global relative
+                                            objective=0.000009090<=1e-05 for 10 non-consecutive
+                                            iterations
+   82    0.124978547    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 7.498942093324558e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.121222588    0   0
+   10    0.120945430    0   0
+   20    0.120734625    0   0
+   30    0.120563128    0   0
+   40    0.120417836    0   0
+   50    0.120291489    0   0
+   60    0.120179548    0   0
+   70    0.120079085    5   0
+Solution converged in 75 iterations with final
+                                            objective=0.120032490, slow progress with global relative
+                                            objective=0.000009141<=1e-05 for 10 non-consecutive
+                                            iterations
+   75    0.120032490    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 5.623413251903491e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.116604081    0   0
+   10    0.116354119    0   0
+   20    0.116160930    0   0
+   30    0.116001954    0   0
+   40    0.115866495    0   0
+   50    0.115747901    0   0
+   60    0.115642213    0   0
+Solution converged in 70 iterations with final
+                                            objective=0.115546734, slow progress with global relative
+                                            objective=0.000009146<=1e-05 for 10 non-consecutive
+                                            iterations
+   70    0.115546734    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 4.216965034285822e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.112481010    0   0
+   10    0.112256899    0   0
+   20    0.112079662    0   0
+   30    0.111931268    0   0
+   40    0.111802718    0   0
+   50    0.111688846    0   0
+   60    0.111586339    3   0
+Solution converged in 67 iterations with final
+                                            objective=0.111520095, slow progress with global relative
+                                            objective=0.000009213<=1e-05 for 10 non-consecutive
+                                            iterations
+   67    0.111520095    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 3.162277660168379e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.108820322    0   0
+   10    0.108618180    0   0
+   20    0.108453101    0   0
+   30    0.108311559    0   0
+   40    0.108186627    0   0
+   50    0.108074237    0   0
+   60    0.107971718    2   0
+Solution converged in 68 iterations with final
+                                            objective=0.107895591, slow progress with global relative
+                                            objective=0.000009259<=1e-05 for 10 non-consecutive
+                                            iterations
+   68    0.107895591    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 2.3713737056616552e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.105535759    0   0
+   10    0.105353022    0   0
+   20    0.105197687    0   0
+   30    0.105060613    0   0
+   40    0.104936887    0   0
+   50    0.104823585    0   0
+   60    0.104718766    0   0
+   70    0.104621032    8   0
+Solution converged in 72 iterations with final
+                                            objective=0.104602240, slow progress with global relative
+                                            objective=0.000009366<=1e-05 for 10 non-consecutive
+                                            iterations
+   72    0.104602240    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 1.778279410038923e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.102544371    0   0
+   10    0.102376591    0   0
+   20    0.102228129    0   0
+   30    0.102093322    0   0
+   40    0.101969076    0   0
+   50    0.101853472    0   0
+   60    0.101745148    0   0
+   70    0.101643102    1   0
+Solution converged in 79 iterations with final
+                                            objective=0.101556205, slow progress with global relative
+                                            objective=0.000009431<=1e-05 for 10 non-consecutive
+                                            iterations
+   79    0.101556205    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 1.333521432163324e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.099756018    0   0
+   10    0.099600423    0   0
+   20    0.099458277    0   0
+   30    0.099326334    0   0
+   40    0.099202767    0   0
+   50    0.099086348    0   0
+   60    0.098976228    0   0
+   70    0.098871762    0   0
+   80    0.098772448    6   0
+Solution converged in 84 iterations with final
+                                            objective=0.098734049, slow progress with global relative
+                                            objective=0.000009531<=1e-05 for 10 non-consecutive
+                                            iterations
+   84    0.098734049    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 1e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.097157299    0   0
+   10    0.097010522    0   0
+   20    0.096873556    0   0
+   30    0.096744546    0   0
+   40    0.096622395    0   0
+   50    0.096506310    0   0
+   60    0.096395728    0   0
+   70    0.096290198    0   0
+   80    0.096189307    3   0
+Solution converged in 87 iterations with final
+                                            objective=0.096121274, slow progress with global relative
+                                            objective=0.000009593<=1e-05 for 10 non-consecutive
+                                            iterations
+   87    0.096121274    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 7.498942093324558e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.094741072    0   0
+   10    0.094601815    0   0
+   20    0.094469980    0   0
+   30    0.094344501    0   0
+   40    0.094224704    0   0
+   50    0.094110094    0   0
+   60    0.094000273    0   0
+   70    0.093894896    0   0
+   80    0.093793697    2   0
+Solution converged in 88 iterations with final
+                                            objective=0.093715568, slow progress with global relative
+                                            objective=0.000009633<=1e-05 for 10 non-consecutive
+                                            iterations
+   88    0.093715568    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 5.62341325190349e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.092512059    0   0
+   10    0.092379521    0   0
+   20    0.092252828    0   0
+   30    0.092131322    0   0
+   40    0.092014584    0   0
+   50    0.091902277    0   0
+   60    0.091794119    0   0
+   70    0.091689863    0   0
+   80    0.091589297    3   0
+Solution converged in 87 iterations with final
+                                            objective=0.091521004, slow progress with global relative
+                                            objective=0.000009654<=1e-05 for 10 non-consecutive
+                                            iterations
+   87    0.091521004    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 4.2169650342858225e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.090479751    0   0
+   10    0.090353491    0   0
+   20    0.090231954    0   0
+   30    0.090114741    0   0
+   40    0.090001564    0   0
+   50    0.089892213    0   0
+   60    0.089786478    0   0
+   70    0.089684163    0   0
+   80    0.089585104    8   0
+Solution converged in 82 iterations with final
+                                            objective=0.089565670, slow progress with global relative
+                                            objective=0.000009702<=1e-05 for 10 non-consecutive
+                                            iterations
+   82    0.089565670    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 3.162277660168379e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.088677338    0   0
+   10    0.088556395    0   0
+   20    0.088439410    0   0
+   30    0.088326120    0   0
+   40    0.088216334    0   0
+   50    0.088109866    0   0
+   60    0.088006563    0   0
+   70    0.087906285    4   0
+Solution converged in 76 iterations with final
+                                            objective=0.087847521, slow progress with global relative
+                                            objective=0.000009723<=1e-05 for 10 non-consecutive
+                                            iterations
+   76    0.087847521    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 2.3713737056616554e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.087100805    0   0
+   10    0.086984783    0   0
+   20    0.086872177    0   0
+   30    0.086762806    0   0
+   40    0.086656522    0   0
+   50    0.086553191    0   0
+   60    0.086452697    3   0
+Solution converged in 67 iterations with final
+                                            objective=0.086383976, slow progress with global relative
+                                            objective=0.000009737<=1e-05 for 10 non-consecutive
+                                            iterations
+   67    0.086383976    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 1.7782794100389227e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.085767218    0   0
+   10    0.085655392    0   0
+   20    0.085546604    0   0
+   30    0.085440717    0   0
+   40    0.085337614    0   0
+   50    0.085237188    3   0
+Solution converged in 57 iterations with final
+                                            objective=0.085168430, slow progress with global relative
+                                            objective=0.000009746<=1e-05 for 10 non-consecutive
+                                            iterations
+   57    0.085168430    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 1.333521432163324e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.084667426    0   0
+   10    0.084559065    0   0
+   20    0.084453486    0   0
+   30    0.084350573    0   0
+   40    0.084250233    4   0
+Solution converged in 46 iterations with final
+                                            objective=0.084191223, slow progress with global relative
+                                            objective=0.000009774<=1e-05 for 10 non-consecutive
+                                            iterations
+   46    0.084191223    10   0
+Starting optimization for lambda_A: 3.359818286283781e-05 lambda_rho: 1e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.083790549    0   0
+   10    0.083684755    0   0
+   20    0.083581565    0   0
+   30    0.083480883    2   0
+Solution converged in 38 iterations with final
+                                            objective=0.083402083, slow progress with global relative
+                                            objective=0.000009767<=1e-05 for 10 non-consecutive
+                                            iterations
+   38    0.083402083    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 0.0001
+Iter    objective   convergence_count   no_progress_count
+    0    1.311391935    0   0
+   10    0.326734083    0   0
+   20    0.225373349    0   0
+   30    0.198736199    0   0
+   40    0.187723460    0   0
+   50    0.181950067    0   0
+   60    0.178299424    0   0
+   70    0.175766465    0   0
+   80    0.174045827    0   0
+   90    0.172749843    0   0
+  100    0.171707583    0   0
+  110    0.170914797    0   0
+  120    0.170301628    0   0
+  130    0.169782597    0   0
+  140    0.169337295    0   0
+  150    0.168970649    0   0
+  160    0.168659964    0   0
+  170    0.168381509    0   0
+  180    0.168138339    0   0
+  190    0.167919771    0   0
+  200    0.167727493    0   0
+  210    0.167553202    0   0
+  220    0.167392974    0   0
+  230    0.167249279    0   0
+  240    0.167122631    0   0
+  250    0.167005219    0   0
+  260    0.166895037    0   0
+  270    0.166794065    4   0
+Solution converged in 276 iterations with final
+                                            objective=0.166737279, slow progress with global relative
+                                            objective=0.000009260<=1e-05 for 10 non-consecutive
+                                            iterations
+  276    0.166737279    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 7.498942093324559e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.162753203    0   0
+   10    0.162644736    0   0
+Solution converged in 20 iterations with final
+                                            objective=0.162554985, slow progress with global relative
+                                            objective=0.000008308<=1e-05 for 10 non-consecutive
+                                            iterations
+   20    0.162554985    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 5.623413251903491e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.159426315    0   0
+   10    0.159101283    0   0
+   20    0.158851963    0   0
+   30    0.158652724    0   0
+   40    0.158488931    0   0
+   50    0.158351709    0   0
+   60    0.158235168    0   0
+   70    0.158134859    5   0
+Solution converged in 75 iterations with final
+                                            objective=0.158089722, slow progress with global relative
+                                            objective=0.000008786<=1e-05 for 10 non-consecutive
+                                            iterations
+   75    0.158089722    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 4.216965034285822e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.154826609    0   0
+   10    0.154441839    0   0
+   20    0.154145173    0   0
+   30    0.153907162    0   0
+   40    0.153710843    0   0
+   50    0.153545398    0   0
+   60    0.153403490    0   0
+   70    0.153279898    0   0
+   80    0.153170910    0   0
+   90    0.153074064    8   0
+Solution converged in 92 iterations with final
+                                            objective=0.153055938, slow progress with global relative
+                                            objective=0.000009013<=1e-05 for 10 non-consecutive
+                                            iterations
+   92    0.153055938    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 3.1622776601683795e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.149409809    0   0
+   10    0.149021511    0   0
+   20    0.148723588    0   0
+   30    0.148483653    0   0
+   40    0.148283861    0   0
+   50    0.148113769    0   0
+   60    0.147966221    0   0
+   70    0.147836572    0   0
+   80    0.147721855    0   0
+   90    0.147619109    2   0
+Solution converged in 98 iterations with final
+                                            objective=0.147544154, slow progress with global relative
+                                            objective=0.000009056<=1e-05 for 10 non-consecutive
+                                            iterations
+   98    0.147544154    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 2.3713737056616554e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.143590424    0   0
+   10    0.143215386    0   0
+   20    0.142928849    0   0
+   30    0.142697446    0   0
+   40    0.142503959    0   0
+   50    0.142338057    0   0
+   60    0.142194062    0   0
+   70    0.142069933    0   0
+   80    0.141959437    0   0
+   90    0.141860144    6   0
+Solution converged in 94 iterations with final
+                                            objective=0.141823136, slow progress with global relative
+                                            objective=0.000009121<=1e-05 for 10 non-consecutive
+                                            iterations
+   94    0.141823136    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 1.778279410038923e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.137726039    0   0
+   10    0.137363369    0   0
+   20    0.137090283    0   0
+   30    0.136870881    0   0
+   40    0.136687233    0   0
+   50    0.136529405    0   0
+   60    0.136391408    0   0
+   70    0.136268941    0   0
+   80    0.136159091    0   0
+   90    0.136059556    6   0
+Solution converged in 94 iterations with final
+                                            objective=0.136022271, slow progress with global relative
+                                            objective=0.000009194<=1e-05 for 10 non-consecutive
+                                            iterations
+   94    0.136022271    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 1.333521432163324e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.131899407    0   0
+   10    0.131564124    0   0
+   20    0.131311679    0   0
+   30    0.131108180    0   0
+   40    0.130937102    0   0
+   50    0.130789218    0   0
+   60    0.130658931    0   0
+   70    0.130542638    0   0
+   80    0.130437799    0   0
+Solution converged in 90 iterations with final
+                                            objective=0.130342445, slow progress with global relative
+                                            objective=0.000009155<=1e-05 for 10 non-consecutive
+                                            iterations
+   90    0.130342445    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 1e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.126344767    0   0
+   10    0.126039708    0   0
+   20    0.125809415    0   0
+   30    0.125623108    0   0
+   40    0.125465803    0   0
+   50    0.125329347    0   0
+   60    0.125208791    0   0
+   70    0.125100817    0   0
+   80    0.125003114    7   0
+Solution converged in 83 iterations with final
+                                            objective=0.124975523, slow progress with global relative
+                                            objective=0.000009115<=1e-05 for 10 non-consecutive
+                                            iterations
+   83    0.124975523    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 7.498942093324558e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.121222736    0   0
+   10    0.120946634    0   0
+   20    0.120735940    0   0
+   30    0.120563976    0   0
+   40    0.120417988    0   0
+   50    0.120290725    0   0
+   60    0.120177695    0   0
+   70    0.120077039    5   0
+Solution converged in 75 iterations with final
+                                            objective=0.120030881, slow progress with global relative
+                                            objective=0.000009054<=1e-05 for 10 non-consecutive
+                                            iterations
+   75    0.120030881    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 5.623413251903491e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.116608543    0   0
+   10    0.116360036    0   0
+   20    0.116168065    0   0
+   30    0.116010119    0   0
+   40    0.115875135    0   0
+   50    0.115756916    0   0
+   60    0.115651500    0   0
+Solution converged in 70 iterations with final
+                                            objective=0.115556225, slow progress with global relative
+                                            objective=0.000009126<=1e-05 for 10 non-consecutive
+                                            iterations
+   70    0.115556225    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 4.216965034285822e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.112496827    0   0
+   10    0.112273182    0   0
+   20    0.112096243    0   0
+   30    0.111948047    0   0
+   40    0.111819593    0   0
+   50    0.111705724    0   0
+   60    0.111603173    2   0
+Solution converged in 68 iterations with final
+                                            objective=0.111527717, slow progress with global relative
+                                            objective=0.000009147<=1e-05 for 10 non-consecutive
+                                            iterations
+   68    0.111527717    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 3.162277660168379e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.108830207    0   0
+   10    0.108629513    0   0
+   20    0.108465374    0   0
+   30    0.108324498    0   0
+   40    0.108200088    0   0
+   50    0.108088075    0   0
+   60    0.107985827    2   0
+Solution converged in 68 iterations with final
+                                            objective=0.107909842, slow progress with global relative
+                                            objective=0.000009243<=1e-05 for 10 non-consecutive
+                                            iterations
+   68    0.107909842    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 2.3713737056616552e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.105553409    0   0
+   10    0.105371089    0   0
+   20    0.105216138    0   0
+   30    0.105079384    0   0
+   40    0.104955915    0   0
+   50    0.104842814    0   0
+   60    0.104738145    0   0
+   70    0.104640521    9   0
+Solution converged in 71 iterations with final
+                                            objective=0.104631104, slow progress with global relative
+                                            objective=0.000009417<=1e-05 for 10 non-consecutive
+                                            iterations
+   71    0.104631104    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 1.778279410038923e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.102579030    0   0
+   10    0.102410510    0   0
+   20    0.102261432    0   0
+   30    0.102126078    0   0
+   40    0.102001343    0   0
+   50    0.101885275    0   0
+   60    0.101776517    0   0
+   70    0.101674070    1   0
+Solution converged in 79 iterations with final
+                                            objective=0.101586612, slow progress with global relative
+                                            objective=0.000009508<=1e-05 for 10 non-consecutive
+                                            iterations
+   79    0.101586612    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 1.333521432163324e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.099790194    0   0
+   10    0.099633750    0   0
+   20    0.099490750    0   0
+   30    0.099357957    0   0
+   40    0.099233555    0   0
+   50    0.099116308    0   0
+   60    0.099005361    0   0
+   70    0.098900084    0   0
+   80    0.098799958    5   0
+Solution converged in 85 iterations with final
+                                            objective=0.098751672, slow progress with global relative
+                                            objective=0.000009566<=1e-05 for 10 non-consecutive
+                                            iterations
+   85    0.098751672    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 1e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.097175488    0   0
+   10    0.097028467    0   0
+   20    0.096891206    0   0
+   30    0.096761866    0   0
+   40    0.096639345    0   0
+   50    0.096522875    0   0
+   60    0.096411888    0   0
+   70    0.096305932    0   0
+   80    0.096204601    2   0
+Solution converged in 88 iterations with final
+                                            objective=0.096126659, slow progress with global relative
+                                            objective=0.000009597<=1e-05 for 10 non-consecutive
+                                            iterations
+   88    0.096126659    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 7.498942093324558e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.094745329    0   0
+   10    0.094606161    0   0
+   20    0.094474356    0   0
+   30    0.094348857    0   0
+   40    0.094229001    0   0
+   50    0.094114290    0   0
+   60    0.094004444    0   0
+   70    0.093899032    0   0
+   80    0.093797783    2   0
+Solution converged in 88 iterations with final
+                                            objective=0.093719600, slow progress with global relative
+                                            objective=0.000009641<=1e-05 for 10 non-consecutive
+                                            iterations
+   88    0.093719600    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 5.62341325190349e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.092515614    0   0
+   10    0.092383051    0   0
+   20    0.092256299    0   0
+   30    0.092134715    0   0
+   40    0.092017884    0   0
+   50    0.091905469    0   0
+   60    0.091797190    0   0
+   70    0.091692797    0   0
+   80    0.091592093    3   0
+Solution converged in 87 iterations with final
+                                            objective=0.091523688, slow progress with global relative
+                                            objective=0.000009670<=1e-05 for 10 non-consecutive
+                                            iterations
+   87    0.091523688    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 4.2169650342858225e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.090482222    0   0
+   10    0.090355825    0   0
+   20    0.090234137    0   0
+   30    0.090116763    0   0
+   40    0.090003413    0   0
+   50    0.089893885    0   0
+   60    0.089787967    0   0
+   70    0.089685462    0   0
+   80    0.089586216    7   0
+Solution converged in 83 iterations with final
+                                            objective=0.089557052, slow progress with global relative
+                                            objective=0.000009691<=1e-05 for 10 non-consecutive
+                                            iterations
+   83    0.089557052    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 3.162277660168379e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.088667491    0   0
+   10    0.088546697    0   0
+   20    0.088429839    0   0
+   30    0.088316656    0   0
+   40    0.088206956    0   0
+   50    0.088100560    0   0
+   60    0.087997312    0   0
+   70    0.087897082    4   0
+Solution converged in 76 iterations with final
+                                            objective=0.087838362, slow progress with global relative
+                                            objective=0.000009705<=1e-05 for 10 non-consecutive
+                                            iterations
+   76    0.087838362    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 2.3713737056616554e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.087090868    0   0
+   10    0.086975051    0   0
+   20    0.086862636    0   0
+   30    0.086753446    0   0
+   40    0.086647333    0   0
+   50    0.086544165    0   0
+   60    0.086443825    4   0
+Solution converged in 66 iterations with final
+                                            objective=0.086384931, slow progress with global relative
+                                            objective=0.000009749<=1e-05 for 10 non-consecutive
+                                            iterations
+   66    0.086384931    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 1.7782794100389227e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.085768379    0   0
+   10    0.085656426    0   0
+   20    0.085547514    0   0
+   30    0.085441508    0   0
+   40    0.085338286    0   0
+   50    0.085237743    3   0
+Solution converged in 57 iterations with final
+                                            objective=0.085168905, slow progress with global relative
+                                            objective=0.000009758<=1e-05 for 10 non-consecutive
+                                            iterations
+   57    0.085168905    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 1.333521432163324e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.084668038    0   0
+   10    0.084559561    0   0
+   20    0.084453868    0   0
+   30    0.084350844    0   0
+   40    0.084250441    4   0
+Solution converged in 46 iterations with final
+                                            objective=0.084191421, slow progress with global relative
+                                            objective=0.000009775<=1e-05 for 10 non-consecutive
+                                            iterations
+   46    0.084191421    10   0
+Starting optimization for lambda_A: 2.3357214690901213e-05 lambda_rho: 1e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.083790850    0   0
+   10    0.083685037    0   0
+   20    0.083581831    0   0
+   30    0.083481134    2   0
+Solution converged in 38 iterations with final
+                                            objective=0.083402325, slow progress with global relative
+                                            objective=0.000009768<=1e-05 for 10 non-consecutive
+                                            iterations
+   38    0.083402325    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 0.0001
+Iter    objective   convergence_count   no_progress_count
+    0    1.311100219    0   0
+   10    0.326798707    0   0
+   20    0.225420721    0   0
+   30    0.198754050    0   0
+   40    0.187718032    0   0
+   50    0.181927043    0   0
+   60    0.178260932    0   0
+   70    0.175712577    0   0
+   80    0.173975232    0   0
+   90    0.172666368    0   0
+  100    0.171610990    0   0
+  110    0.170807165    0   0
+  120    0.170182069    0   0
+  130    0.169652093    0   0
+  140    0.169195557    0   0
+  150    0.168818712    0   0
+  160    0.168498662    0   0
+  170    0.168213207    0   0
+  180    0.167962472    0   0
+  190    0.167735835    0   0
+  200    0.167535647    0   0
+  210    0.167353826    0   0
+  220    0.167186389    0   0
+  230    0.167035342    0   0
+  240    0.166901710    0   0
+  250    0.166777520    0   0
+  260    0.166660805    0   0
+  270    0.166553428    0   0
+  280    0.166453951    6   0
+Solution converged in 284 iterations with final
+                                            objective=0.166416006, slow progress with global relative
+                                            objective=0.000009403<=1e-05 for 10 non-consecutive
+                                            iterations
+  284    0.166416006    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 7.498942093324559e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.162494625    0   0
+   10    0.162384516    0   0
+Solution converged in 20 iterations with final
+                                            objective=0.162292690, slow progress with global relative
+                                            objective=0.000008527<=1e-05 for 10 non-consecutive
+                                            iterations
+   20    0.162292690    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 5.623413251903491e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.159214910    0   0
+   10    0.158896947    0   0
+   20    0.158651577    0   0
+   30    0.158454336    0   0
+   40    0.158291346    0   0
+   50    0.158154056    0   0
+   60    0.158036990    0   0
+   70    0.157935792    4   0
+Solution converged in 76 iterations with final
+                                            objective=0.157881521, slow progress with global relative
+                                            objective=0.000008718<=1e-05 for 10 non-consecutive
+                                            iterations
+   76    0.157881521    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 4.216965034285822e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.154678166    0   0
+   10    0.154303087    0   0
+   20    0.154012614    0   0
+   30    0.153778765    0   0
+   40    0.153585276    0   0
+   50    0.153422030    0   0
+   60    0.153281872    0   0
+   70    0.153159684    0   0
+   80    0.153052070    0   0
+   90    0.152956409    9   0
+Solution converged in 91 iterations with final
+                                            objective=0.152947411, slow progress with global relative
+                                            objective=0.000008998<=1e-05 for 10 non-consecutive
+                                            iterations
+   91    0.152947411    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 3.1622776601683795e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.149377214    0   0
+   10    0.148991705    0   0
+   20    0.148695154    0   0
+   30    0.148455814    0   0
+   40    0.148256325    0   0
+   50    0.148086503    0   0
+   60    0.147939259    0   0
+   70    0.147810155    0   0
+   80    0.147695831    0   0
+   90    0.147593609    3   0
+Solution converged in 97 iterations with final
+                                            objective=0.147528115, slow progress with global relative
+                                            objective=0.000009085<=1e-05 for 10 non-consecutive
+                                            iterations
+   97    0.147528115    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 2.3713737056616554e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.143641478    0   0
+   10    0.143264743    0   0
+   20    0.142976562    0   0
+   30    0.142743689    0   0
+   40    0.142549026    0   0
+   50    0.142382313    0   0
+   60    0.142236915    0   0
+   70    0.142108352    0   0
+   80    0.141993330    0   0
+   90    0.141889405    1   0
+Solution converged in 99 iterations with final
+                                            objective=0.141803905, slow progress with global relative
+                                            objective=0.000009158<=1e-05 for 10 non-consecutive
+                                            iterations
+   99    0.141803905    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 1.778279410038923e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.137720828    0   0
+   10    0.137363256    0   0
+   20    0.137092798    0   0
+   30    0.136874523    0   0
+   40    0.136691287    0   0
+   50    0.136533383    0   0
+   60    0.136394992    0   0
+   70    0.136271866    0   0
+   80    0.136161018    0   0
+   90    0.136060358    4   0
+Solution converged in 96 iterations with final
+                                            objective=0.136004196, slow progress with global relative
+                                            objective=0.000009159<=1e-05 for 10 non-consecutive
+                                            iterations
+   96    0.136004196    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 1.333521432163324e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.131890897    0   0
+   10    0.131559102    0   0
+   20    0.131308161    0   0
+   30    0.131105218    0   0
+   40    0.130934084    0   0
+   50    0.130785796    0   0
+   60    0.130654892    0   0
+   70    0.130537801    0   0
+   80    0.130432000    0   0
+   90    0.130335535    9   0
+Solution converged in 91 iterations with final
+                                            objective=0.130326346, slow progress with global relative
+                                            objective=0.000009189<=1e-05 for 10 non-consecutive
+                                            iterations
+   91    0.130326346    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 1e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.126337723    0   0
+   10    0.126034132    0   0
+   20    0.125804281    0   0
+   30    0.125617720    0   0
+   40    0.125459792    0   0
+   50    0.125322474    0   0
+   60    0.125200908    0   0
+   70    0.125091794    0   0
+   80    0.124992863    6   0
+Solution converged in 84 iterations with final
+                                            objective=0.124956057, slow progress with global relative
+                                            objective=0.000008920<=1e-05 for 10 non-consecutive
+                                            iterations
+   84    0.124956057    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 7.498942093324558e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.121210306    0   0
+   10    0.120937881    0   0
+   20    0.120730015    0   0
+   30    0.120560329    0   0
+   40    0.120416162    0   0
+   50    0.120290521    0   0
+   60    0.120178940    0   0
+   70    0.120078612    5   0
+Solution converged in 75 iterations with final
+                                            objective=0.120031991, slow progress with global relative
+                                            objective=0.000009151<=1e-05 for 10 non-consecutive
+                                            iterations
+   75    0.120031991    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 5.623413251903491e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.116618912    0   0
+   10    0.116369950    0   0
+   20    0.116177748    0   0
+   30    0.116019603    0   0
+   40    0.115884290    0   0
+   50    0.115765614    0   0
+   60    0.115659630    0   0
+   70    0.115563908    9   0
+Solution converged in 71 iterations with final
+                                            objective=0.115554836, slow progress with global relative
+                                            objective=0.000009072<=1e-05 for 10 non-consecutive
+                                            iterations
+   71    0.115554836    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 4.216965034285822e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.112500304    0   0
+   10    0.112278311    0   0
+   20    0.112102430    0   0
+   30    0.111954882    0   0
+   40    0.111826815    0   0
+   50    0.111713168    0   0
+   60    0.111610697    3   0
+Solution converged in 67 iterations with final
+                                            objective=0.111544370, slow progress with global relative
+                                            objective=0.000009229<=1e-05 for 10 non-consecutive
+                                            iterations
+   67    0.111544370    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 3.162277660168379e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.108856138    0   0
+   10    0.108654279    0   0
+   20    0.108489142    0   0
+   30    0.108347368    0   0
+   40    0.108222097    0   0
+   50    0.108109283    0   0
+   60    0.108006256    2   0
+Solution converged in 68 iterations with final
+                                            objective=0.107929659, slow progress with global relative
+                                            objective=0.000009320<=1e-05 for 10 non-consecutive
+                                            iterations
+   68    0.107929659    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 2.3713737056616552e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.105579590    0   0
+   10    0.105396454    0   0
+   20    0.105240585    0   0
+   30    0.105102929    0   0
+   40    0.104978570    0   0
+   50    0.104864575    0   0
+   60    0.104759014    0   0
+   70    0.104660482    7   0
+Solution converged in 73 iterations with final
+                                            objective=0.104632137, slow progress with global relative
+                                            objective=0.000009390<=1e-05 for 10 non-consecutive
+                                            iterations
+   73    0.104632137    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 1.778279410038923e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.102579703    0   0
+   10    0.102412151    0   0
+   20    0.102263690    0   0
+   30    0.102128715    0   0
+   40    0.102004172    0   0
+   50    0.101888191    0   0
+   60    0.101779410    0   0
+   70    0.101676849    1   0
+Solution converged in 79 iterations with final
+                                            objective=0.101589241, slow progress with global relative
+                                            objective=0.000009529<=1e-05 for 10 non-consecutive
+                                            iterations
+   79    0.101589241    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 1.333521432163324e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.099794263    0   0
+   10    0.099637847    0   0
+   20    0.099494793    0   0
+   30    0.099361888    0   0
+   40    0.099237299    0   0
+   50    0.099119837    0   0
+   60    0.099008632    0   0
+   70    0.098903083    0   0
+   80    0.098802626    4   0
+Solution converged in 86 iterations with final
+                                            objective=0.098744605, slow progress with global relative
+                                            objective=0.000009557<=1e-05 for 10 non-consecutive
+                                            iterations
+   86    0.098744605    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 1e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.097168182    0   0
+   10    0.097021524    0   0
+   20    0.096884528    0   0
+   30    0.096755725    0   0
+   40    0.096634216    0   0
+   50    0.096518695    0   0
+   60    0.096408593    0   0
+   70    0.096303460    0   0
+   80    0.096202919    4   0
+Solution converged in 86 iterations with final
+                                            objective=0.096144667, slow progress with global relative
+                                            objective=0.000009605<=1e-05 for 10 non-consecutive
+                                            iterations
+   86    0.096144667    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 7.498942093324558e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.094767641    0   0
+   10    0.094628313    0   0
+   20    0.094496368    0   0
+   30    0.094370743    0   0
+   40    0.094250773    0   0
+   50    0.094135958    0   0
+   60    0.094025910    0   0
+   70    0.093920310    0   0
+   80    0.093818875    1   0
+Solution converged in 89 iterations with final
+                                            objective=0.093730915, slow progress with global relative
+                                            objective=0.000009622<=1e-05 for 10 non-consecutive
+                                            iterations
+   89    0.093730915    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 5.62341325190349e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.092528331    0   0
+   10    0.092395986    0   0
+   20    0.092269418    0   0
+   30    0.092148004    0   0
+   40    0.092031321    0   0
+   50    0.091919038    0   0
+   60    0.091810877    0   0
+   70    0.091706602    0   0
+   80    0.091606001    3   0
+Solution converged in 87 iterations with final
+                                            objective=0.091537662, slow progress with global relative
+                                            objective=0.000009661<=1e-05 for 10 non-consecutive
+                                            iterations
+   87    0.091537662    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 4.2169650342858225e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.090497361    0   0
+   10    0.090371055    0   0
+   20    0.090249450    0   0
+   30    0.090132147    0   0
+   40    0.090018862    0   0
+   50    0.089909383    0   0
+   60    0.089803516    0   0
+   70    0.089701061    0   0
+   80    0.089601843    7   0
+Solution converged in 83 iterations with final
+                                            objective=0.089572687, slow progress with global relative
+                                            objective=0.000009688<=1e-05 for 10 non-consecutive
+                                            iterations
+   83    0.089572687    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 3.162277660168379e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.088684044    0   0
+   10    0.088563284    0   0
+   20    0.088446449    0   0
+   30    0.088333280    0   0
+   40    0.088223590    0   0
+   50    0.088117200    0   0
+   60    0.088013957    0   0
+   70    0.087913728    4   0
+Solution converged in 76 iterations with final
+                                            objective=0.087854982, slow progress with global relative
+                                            objective=0.000009720<=1e-05 for 10 non-consecutive
+                                            iterations
+   76    0.087854982    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 2.3713737056616554e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.087108173    0   0
+   10    0.086992201    0   0
+   20    0.086879623    0   0
+   30    0.086770268    0   0
+   40    0.086663986    0   0
+   50    0.086560646    0   0
+   60    0.086460131    3   0
+Solution converged in 67 iterations with final
+                                            objective=0.086391387, slow progress with global relative
+                                            objective=0.000009741<=1e-05 for 10 non-consecutive
+                                            iterations
+   67    0.086391387    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 1.7782794100389227e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.085774612    0   0
+   10    0.085662756    0   0
+   20    0.085553929    0   0
+   30    0.085447994    0   0
+   40    0.085344831    0   0
+   50    0.085244339    3   0
+Solution converged in 57 iterations with final
+                                            objective=0.085175531, slow progress with global relative
+                                            objective=0.000009754<=1e-05 for 10 non-consecutive
+                                            iterations
+   57    0.085175531    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 1.333521432163324e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.084674538    0   0
+   10    0.084566106    0   0
+   20    0.084460449    0   0
+   30    0.084357452    0   0
+   40    0.084257019    3   0
+Solution converged in 47 iterations with final
+                                            objective=0.084188194, slow progress with global relative
+                                            objective=0.000009759<=1e-05 for 10 non-consecutive
+                                            iterations
+   47    0.084188194    10   0
+Starting optimization for lambda_A: 1.623776739188721e-05 lambda_rho: 1e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.083787100    0   0
+   10    0.083681461    0   0
+   20    0.083578414    0   0
+   30    0.083477862    3   0
+Solution converged in 37 iterations with final
+                                            objective=0.083408915, slow progress with global relative
+                                            objective=0.000009778<=1e-05 for 10 non-consecutive
+                                            iterations
+   37    0.083408915    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 0.0001
+Iter    objective   convergence_count   no_progress_count
+    0    1.311171933    0   0
+   10    0.326685863    0   0
+   20    0.225356109    0   0
+   30    0.198672356    0   0
+   40    0.187617072    0   0
+   50    0.181799580    0   0
+   60    0.178105708    0   0
+   70    0.175534290    0   0
+   80    0.173774162    0   0
+   90    0.172446287    0   0
+  100    0.171372763    0   0
+  110    0.170552294    0   0
+  120    0.169911973    0   0
+  130    0.169368099    0   0
+  140    0.168897108    0   0
+  150    0.168508720    0   0
+  160    0.168180987    0   0
+  170    0.167885165    0   0
+  180    0.167623971    0   0
+  190    0.167387230    0   0
+  200    0.167176809    0   0
+  210    0.166985717    0   0
+  220    0.166809383    0   0
+  230    0.166648817    0   0
+  240    0.166506409    0   0
+  250    0.166373560    0   0
+  260    0.166249361    0   0
+  270    0.166136089    0   0
+  280    0.166030984    0   0
+  290    0.165932930    8   0
+Solution converged in 292 iterations with final
+                                            objective=0.165914391, slow progress with global relative
+                                            objective=0.000009236<=1e-05 for 10 non-consecutive
+                                            iterations
+  292    0.165914391    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 7.498942093324559e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.162073919    0   0
+   10    0.161963390    0   0
+Solution converged in 20 iterations with final
+                                            objective=0.161871540, slow progress with global relative
+                                            objective=0.000008434<=1e-05 for 10 non-consecutive
+                                            iterations
+   20    0.161871540    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 5.623413251903491e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.158856799    0   0
+   10    0.158549942    0   0
+   20    0.158311768    0   0
+   30    0.158119184    0   0
+   40    0.157959310    0   0
+   50    0.157823960    0   0
+   60    0.157707739    0   0
+   70    0.157606687    4   0
+Solution converged in 76 iterations with final
+                                            objective=0.157552241, slow progress with global relative
+                                            objective=0.000008772<=1e-05 for 10 non-consecutive
+                                            iterations
+   76    0.157552241    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 4.216965034285822e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.154447773    0   0
+   10    0.154092005    0   0
+   20    0.153812832    0   0
+   30    0.153585429    0   0
+   40    0.153395652    0   0
+   50    0.153234747    0   0
+   60    0.153095598    0   0
+   70    0.152973501    0   0
+   80    0.152865288    0   0
+   90    0.152769058    9   0
+Solution converged in 91 iterations with final
+                                            objective=0.152759990, slow progress with global relative
+                                            objective=0.000009068<=1e-05 for 10 non-consecutive
+                                            iterations
+   91    0.152759990    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 3.1622776601683795e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.149326123    0   0
+   10    0.148952190    0   0
+   20    0.148659534    0   0
+   30    0.148420185    0   0
+   40    0.148218536    0   0
+   50    0.148045689    0   0
+   60    0.147895835    0   0
+   70    0.147763244    0   0
+   80    0.147644682    0   0
+   90    0.147537846    0   0
+  100    0.147440824    8   0
+Solution converged in 102 iterations with final
+                                            objective=0.147422456, slow progress with global relative
+                                            objective=0.000009143<=1e-05 for 10 non-consecutive
+                                            iterations
+  102    0.147422456    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 2.3713737056616554e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.143633604    0   0
+   10    0.143260329    0   0
+   20    0.142970711    0   0
+   30    0.142734984    0   0
+   40    0.142535801    0   0
+   50    0.142363328    0   0
+   60    0.142212265    0   0
+   70    0.142077479    0   0
+   80    0.141955686    0   0
+   90    0.141845470    0   0
+  100    0.141745407    5   0
+Solution converged in 105 iterations with final
+                                            objective=0.141698484, slow progress with global relative
+                                            objective=0.000009227<=1e-05 for 10 non-consecutive
+                                            iterations
+  105    0.141698484    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 1.778279410038923e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.137648171    0   0
+   10    0.137295784    0   0
+   20    0.137030284    0   0
+   30    0.136815784    0   0
+   40    0.136635571    0   0
+   50    0.136481332    0   0
+   60    0.136345971    0   0
+   70    0.136225605    0   0
+   80    0.136117240    0   0
+   90    0.136018765    7   0
+Solution converged in 93 iterations with final
+                                            objective=0.135990924, slow progress with global relative
+                                            objective=0.000009199<=1e-05 for 10 non-consecutive
+                                            iterations
+   93    0.135990924    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 1.333521432163324e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.131930858    0   0
+   10    0.131596671    0   0
+   20    0.131343686    0   0
+   30    0.131138964    0   0
+   40    0.130966189    0   0
+   50    0.130816295    0   0
+   60    0.130683784    0   0
+   70    0.130566149    0   0
+   80    0.130459953    0   0
+   90    0.130363089    9   0
+Solution converged in 91 iterations with final
+                                            objective=0.130353863, slow progress with global relative
+                                            objective=0.000009225<=1e-05 for 10 non-consecutive
+                                            iterations
+   91    0.130353863    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 1e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.126399122    0   0
+   10    0.126094754    0   0
+   20    0.125864542    0   0
+   30    0.125678141    0   0
+   40    0.125520568    0   0
+   50    0.125383636    0   0
+   60    0.125262458    0   0
+   70    0.125153766    0   0
+   80    0.125055181    7   0
+Solution converged in 83 iterations with final
+                                            objective=0.125027293, slow progress with global relative
+                                            objective=0.000009215<=1e-05 for 10 non-consecutive
+                                            iterations
+   83    0.125027293    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 7.498942093324558e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.121307521    0   0
+   10    0.121030539    0   0
+   20    0.120818674    0   0
+   30    0.120645384    0   0
+   40    0.120497821    0   0
+   50    0.120368869    0   0
+   60    0.120254168    0   0
+   70    0.120150775    2   0
+Solution converged in 78 iterations with final
+                                            objective=0.120074793, slow progress with global relative
+                                            objective=0.000009203<=1e-05 for 10 non-consecutive
+                                            iterations
+   78    0.120074793    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 5.623413251903491e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.116665416    0   0
+   10    0.116418080    0   0
+   20    0.116225628    0   0
+   30    0.116066251    0   0
+   40    0.115929206    0   0
+   50    0.115808789    0   0
+   60    0.115701181    0   0
+   70    0.115603482    8   0
+Solution converged in 72 iterations with final
+                                            objective=0.115584959, slow progress with global relative
+                                            objective=0.000009222<=1e-05 for 10 non-consecutive
+                                            iterations
+   72    0.115584959    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 4.216965034285822e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.112534051    0   0
+   10    0.112311920    0   0
+   20    0.112135093    0   0
+   30    0.111986073    0   0
+   40    0.111856516    0   0
+   50    0.111742355    0   0
+   60    0.111639207    2   0
+Solution converged in 68 iterations with final
+                                            objective=0.111563088, slow progress with global relative
+                                            objective=0.000009236<=1e-05 for 10 non-consecutive
+                                            iterations
+   68    0.111563088    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 3.162277660168379e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.108877337    0   0
+   10    0.108676559    0   0
+   20    0.108511866    0   0
+   30    0.108370126    0   0
+   40    0.108244969    0   0
+   50    0.108132073    0   0
+   60    0.108028844    1   0
+Solution converged in 69 iterations with final
+                                            objective=0.107942713, slow progress with global relative
+                                            objective=0.000009287<=1e-05 for 10 non-consecutive
+                                            iterations
+   69    0.107942713    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 2.3713737056616552e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.105594268    0   0
+   10    0.105412304    0   0
+   20    0.105257163    0   0
+   30    0.105119869    0   0
+   40    0.104995661    0   0
+   50    0.104881637    0   0
+   60    0.104775871    0   0
+   70    0.104677050    7   0
+Solution converged in 73 iterations with final
+                                            objective=0.104648601, slow progress with global relative
+                                            objective=0.000009425<=1e-05 for 10 non-consecutive
+                                            iterations
+   73    0.104648601    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 1.778279410038923e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.102599446    0   0
+   10    0.102431841    0   0
+   20    0.102283194    0   0
+   30    0.102147913    0   0
+   40    0.102022993    0   0
+   50    0.101906546    0   0
+   60    0.101797222    0   0
+   70    0.101694040    0   0
+   80    0.101596348    9   0
+Solution converged in 81 iterations with final
+                                            objective=0.101586856, slow progress with global relative
+                                            objective=0.000009492<=1e-05 for 10 non-consecutive
+                                            iterations
+   81    0.101586856    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 1.333521432163324e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.099790726    0   0
+   10    0.099635193    0   0
+   20    0.099493500    0   0
+   30    0.099361914    0   0
+   40    0.099238485    0   0
+   50    0.099122059    0   0
+   60    0.099011797    0   0
+   70    0.098907063    0   0
+   80    0.098807339    6   0
+Solution converged in 84 iterations with final
+                                            objective=0.098768756, slow progress with global relative
+                                            objective=0.000009579<=1e-05 for 10 non-consecutive
+                                            iterations
+   84    0.098768756    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 1e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.097197029    0   0
+   10    0.097050044    0   0
+   20    0.096912718    0   0
+   30    0.096783224    0   0
+   40    0.096660489    0   0
+   50    0.096543763    0   0
+   60    0.096432469    0   0
+   70    0.096326149    0   0
+   80    0.096224419    1   0
+Solution converged in 89 iterations with final
+                                            objective=0.096136550, slow progress with global relative
+                                            objective=0.000009600<=1e-05 for 10 non-consecutive
+                                            iterations
+   89    0.096136550    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 7.498942093324558e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.094757404    0   0
+   10    0.094618378    0   0
+   20    0.094486605    0   0
+   30    0.094361041    0   0
+   40    0.094241060    0   0
+   50    0.094126185    0   0
+   60    0.094016022    0   0
+   70    0.093910601    0   0
+   80    0.093809307    2   0
+Solution converged in 88 iterations with final
+                                            objective=0.093731055, slow progress with global relative
+                                            objective=0.000009651<=1e-05 for 10 non-consecutive
+                                            iterations
+   88    0.093731055    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 5.62341325190349e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.092529336    0   0
+   10    0.092396739    0   0
+   20    0.092269898    0   0
+   30    0.092148186    0   0
+   40    0.092031177    0   0
+   50    0.091918543    0   0
+   60    0.091810026    0   0
+   70    0.091705378    0   0
+   80    0.091604373    2   0
+Solution converged in 88 iterations with final
+                                            objective=0.091526126, slow progress with global relative
+                                            objective=0.000009652<=1e-05 for 10 non-consecutive
+                                            iterations
+   88    0.091526126    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 4.2169650342858225e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.090485314    0   0
+   10    0.090359179    0   0
+   20    0.090237697    0   0
+   30    0.090120488    0   0
+   40    0.090007275    0   0
+   50    0.089897853    0   0
+   60    0.089792017    0   0
+   70    0.089689567    0   0
+   80    0.089590356    7   0
+Solution converged in 83 iterations with final
+                                            objective=0.089561254, slow progress with global relative
+                                            objective=0.000009670<=1e-05 for 10 non-consecutive
+                                            iterations
+   83    0.089561254    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 3.162277660168379e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.088672496    0   0
+   10    0.088551950    0   0
+   20    0.088435305    0   0
+   30    0.088322305    0   0
+   40    0.088212762    0   0
+   50    0.088106502    0   0
+   60    0.088003373    0   0
+   70    0.087903243    5   0
+Solution converged in 75 iterations with final
+                                            objective=0.087854262, slow progress with global relative
+                                            objective=0.000009739<=1e-05 for 10 non-consecutive
+                                            iterations
+   75    0.087854262    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 2.3713737056616554e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.087108397    0   0
+   10    0.086992223    0   0
+   20    0.086879449    0   0
+   30    0.086769893    0   0
+   40    0.086663410    0   0
+   50    0.086559867    0   0
+   60    0.086459147    2   0
+Solution converged in 68 iterations with final
+                                            objective=0.086380523, slow progress with global relative
+                                            objective=0.000009735<=1e-05 for 10 non-consecutive
+                                            iterations
+   68    0.086380523    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 1.7782794100389227e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.085763709    0   0
+   10    0.085651922    0   0
+   20    0.085543151    0   0
+   30    0.085437259    0   0
+   40    0.085334130    0   0
+   50    0.085233663    3   0
+Solution converged in 57 iterations with final
+                                            objective=0.085164866, slow progress with global relative
+                                            objective=0.000009753<=1e-05 for 10 non-consecutive
+                                            iterations
+   57    0.085164866    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 1.333521432163324e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.084663879    0   0
+   10    0.084555468    0   0
+   20    0.084449821    0   0
+   30    0.084346831    0   0
+   40    0.084246401    3   0
+Solution converged in 47 iterations with final
+                                            objective=0.084177572, slow progress with global relative
+                                            objective=0.000009760<=1e-05 for 10 non-consecutive
+                                            iterations
+   47    0.084177572    10   0
+Starting optimization for lambda_A: 1.1288378916846883e-05 lambda_rho: 1e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.083776501    0   0
+   10    0.083670857    0   0
+   20    0.083567797    0   0
+   30    0.083467225    3   0
+Solution converged in 37 iterations with final
+                                            objective=0.083398258, slow progress with global relative
+                                            objective=0.000009781<=1e-05 for 10 non-consecutive
+                                            iterations
+   37    0.083398258    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 0.0001
+Iter    objective   convergence_count   no_progress_count
+    0    1.311039339    0   0
+   10    0.326715644    0   0
+   20    0.225249092    0   0
+   30    0.198522073    0   0
+   40    0.187428581    0   0
+   50    0.181568051    0   0
+   60    0.177825373    0   0
+   70    0.175208412    0   0
+   80    0.173402296    0   0
+   90    0.172039951    0   0
+  100    0.170928037    0   0
+  110    0.170074248    0   0
+  120    0.169401133    0   0
+  130    0.168831100    0   0
+  140    0.168338065    0   0
+  150    0.167930023    0   0
+  160    0.167579076    0   0
+  170    0.167260967    0   0
+  180    0.166977847    0   0
+  190    0.166720031    0   0
+  200    0.166489437    0   0
+  210    0.166280840    0   0
+  220    0.166089992    0   0
+  230    0.165914670    0   0
+  240    0.165757509    0   0
+  250    0.165610923    0   0
+  260    0.165473488    0   0
+  270    0.165346719    0   0
+  280    0.165228643    0   0
+  290    0.165119497    0   0
+  300    0.165018562    3   0
+Solution converged in 307 iterations with final
+                                            objective=0.164954834, slow progress with global relative
+                                            objective=0.000008688<=1e-05 for 10 non-consecutive
+                                            iterations
+  307    0.164954834    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 7.498942093324559e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.161277320    0   0
+   10    0.161174888    0   0
+Solution converged in 20 iterations with final
+                                            objective=0.161088405, slow progress with global relative
+                                            objective=0.000008052<=1e-05 for 10 non-consecutive
+                                            iterations
+   20    0.161088405    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 5.623413251903491e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.158213678    0   0
+   10    0.157938438    0   0
+   20    0.157723922    0   0
+   30    0.157550024    0   0
+   40    0.157404844    0   0
+   50    0.157281050    0   0
+   60    0.157173934    0   0
+Solution converged in 70 iterations with final
+                                            objective=0.157079964, slow progress with global relative
+                                            objective=0.000008877<=1e-05 for 10 non-consecutive
+                                            iterations
+   70    0.157079964    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 4.216965034285822e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.154212239    0   0
+   10    0.153877106    0   0
+   20    0.153609610    0   0
+   30    0.153388674    0   0
+   40    0.153201104    0   0
+   50    0.153038498    0   0
+   60    0.152895259    0   0
+   70    0.152767455    0   0
+   80    0.152652279    0   0
+   90    0.152547597    0   0
+Solution converged in 100 iterations with final
+                                            objective=0.152452426, slow progress with global relative
+                                            objective=0.000009135<=1e-05 for 10 non-consecutive
+                                            iterations
+  100    0.152452426    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 3.1622776601683795e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.149214650    0   0
+   10    0.148866926    0   0
+   20    0.148587624    0   0
+   30    0.148354295    0   0
+   40    0.148153503    0   0
+   50    0.147978756    0   0
+   60    0.147823891    0   0
+   70    0.147686832    0   0
+   80    0.147563613    0   0
+   90    0.147451752    0   0
+  100    0.147349894    3   0
+Solution converged in 107 iterations with final
+                                            objective=0.147283456, slow progress with global relative
+                                            objective=0.000009263<=1e-05 for 10 non-consecutive
+                                            iterations
+  107    0.147283456    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 2.3713737056616554e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.143681000    0   0
+   10    0.143327173    0   0
+   20    0.143045824    0   0
+   30    0.142811306    0   0
+   40    0.142610174    0   0
+   50    0.142434921    0   0
+   60    0.142279962    0   0
+   70    0.142141514    0   0
+   80    0.142017188    0   0
+   90    0.141903668    0   0
+  100    0.141800099    1   0
+Solution converged in 109 iterations with final
+                                            objective=0.141713825, slow progress with global relative
+                                            objective=0.000009262<=1e-05 for 10 non-consecutive
+                                            iterations
+  109    0.141713825    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 1.778279410038923e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.137825279    0   0
+   10    0.137476815    0   0
+   20    0.137206394    0   0
+   30    0.136983730    0   0
+   40    0.136793927    0   0
+   50    0.136628771    0   0
+   60    0.136481974    0   0
+   70    0.136350961    0   0
+   80    0.136232087    0   0
+   90    0.136122875    0   0
+  100    0.136022126    4   0
+Solution converged in 106 iterations with final
+                                            objective=0.135965718, slow progress with global relative
+                                            objective=0.000009232<=1e-05 for 10 non-consecutive
+                                            iterations
+  106    0.135965718    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 1.333521432163324e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.131952897    0   0
+   10    0.131627440    0   0
+   20    0.131375703    0   0
+   30    0.131168586    0   0
+   40    0.130992711    0   0
+   50    0.130839547    0   0
+   60    0.130703149    0   0
+   70    0.130580540    0   0
+   80    0.130468455    0   0
+   90    0.130365166    1   0
+Solution converged in 99 iterations with final
+                                            objective=0.130281349, slow progress with global relative
+                                            objective=0.000008975<=1e-05 for 10 non-consecutive
+                                            iterations
+   99    0.130281349    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 1e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.126338563    0   0
+   10    0.126045282    0   0
+   20    0.125820480    0   0
+   30    0.125636025    0   0
+   40    0.125478412    0   0
+   50    0.125340115    0   0
+   60    0.125216467    0   0
+   70    0.125104656    0   0
+   80    0.125002310    2   0
+Solution converged in 88 iterations with final
+                                            objective=0.124926114, slow progress with global relative
+                                            objective=0.000009273<=1e-05 for 10 non-consecutive
+                                            iterations
+   88    0.124926114    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 7.498942093324558e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.121210761    0   0
+   10    0.120939864    0   0
+   20    0.120730572    0   0
+   30    0.120562391    0   0
+   40    0.120419994    0   0
+   50    0.120295268    0   0
+   60    0.120184106    0   0
+   70    0.120084357    5   0
+Solution converged in 75 iterations with final
+                                            objective=0.120037843, slow progress with global relative
+                                            objective=0.000009139<=1e-05 for 10 non-consecutive
+                                            iterations
+   75    0.120037843    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 5.623413251903491e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.116659543    0   0
+   10    0.116412305    0   0
+   20    0.116219910    0   0
+   30    0.116060617    0   0
+   40    0.115924518    0   0
+   50    0.115804889    0   0
+   60    0.115697978    0   0
+   70    0.115600862    8   0
+Solution converged in 72 iterations with final
+                                            objective=0.115582438, slow progress with global relative
+                                            objective=0.000009174<=1e-05 for 10 non-consecutive
+                                            iterations
+   72    0.115582438    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 4.216965034285822e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.112554277    0   0
+   10    0.112332530    0   0
+   20    0.112155765    0   0
+   30    0.112007499    0   0
+   40    0.111878725    0   0
+   50    0.111764007    0   0
+   60    0.111660224    1   0
+Solution converged in 69 iterations with final
+                                            objective=0.111574344, slow progress with global relative
+                                            objective=0.000009229<=1e-05 for 10 non-consecutive
+                                            iterations
+   69    0.111574344    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 3.162277660168379e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.108902435    0   0
+   10    0.108702191    0   0
+   20    0.108537528    0   0
+   30    0.108396456    0   0
+   40    0.108271427    0   0
+   50    0.108158475    0   0
+   60    0.108055064    1   0
+Solution converged in 69 iterations with final
+                                            objective=0.107968677, slow progress with global relative
+                                            objective=0.000009319<=1e-05 for 10 non-consecutive
+                                            iterations
+   69    0.107968677    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 2.3713737056616552e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.105631791    0   0
+   10    0.105449662    0   0
+   20    0.105294195    0   0
+   30    0.105156426    0   0
+   40    0.105031611    0   0
+   50    0.104917277    0   0
+   60    0.104811983    0   0
+   70    0.104713628    8   0
+Solution converged in 72 iterations with final
+                                            objective=0.104694693, slow progress with global relative
+                                            objective=0.000009439<=1e-05 for 10 non-consecutive
+                                            iterations
+   72    0.104694693    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 1.778279410038923e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.102657197    0   0
+   10    0.102489199    0   0
+   20    0.102340240    0   0
+   30    0.102204692    0   0
+   40    0.102079528    0   0
+   50    0.101962847    0   0
+   60    0.101853263    0   0
+   70    0.101749838    0   0
+   80    0.101651860    9   0
+Solution converged in 81 iterations with final
+                                            objective=0.101642339, slow progress with global relative
+                                            objective=0.000009522<=1e-05 for 10 non-consecutive
+                                            iterations
+   81    0.101642339    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 1.333521432163324e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.099854534    0   0
+   10    0.099698664    0   0
+   20    0.099555915    0   0
+   30    0.099423072    0   0
+   40    0.099298344    0   0
+   50    0.099180601    0   0
+   60    0.099069024    0   0
+   70    0.098962987    0   0
+   80    0.098861928    3   0
+Solution converged in 87 iterations with final
+                                            objective=0.098793939, slow progress with global relative
+                                            objective=0.000009580<=1e-05 for 10 non-consecutive
+                                            iterations
+   87    0.098793939    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 1e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.097222418    0   0
+   10    0.097075829    0   0
+   20    0.096938723    0   0
+   30    0.096809288    0   0
+   40    0.096686521    0   0
+   50    0.096569674    0   0
+   60    0.096458176    0   0
+   70    0.096351568    0   0
+   80    0.096249494    0   0
+Solution converged in 90 iterations with final
+                                            objective=0.096151617, slow progress with global relative
+                                            objective=0.000009607<=1e-05 for 10 non-consecutive
+                                            iterations
+   90    0.096151617    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 7.498942093324558e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.094772218    0   0
+   10    0.094633787    0   0
+   20    0.094502510    0   0
+   30    0.094377344    0   0
+   40    0.094257666    0   0
+   50    0.094142996    0   0
+   60    0.094032971    0   0
+   70    0.093927267    0   0
+   80    0.093825608    1   0
+Solution converged in 89 iterations with final
+                                            objective=0.093737489, slow progress with global relative
+                                            objective=0.000009606<=1e-05 for 10 non-consecutive
+                                            iterations
+   89    0.093737489    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 5.62341325190349e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.092534958    0   0
+   10    0.092402998    0   0
+   20    0.092276850    0   0
+   30    0.092155826    0   0
+   40    0.092039439    0   0
+   50    0.091927380    0   0
+   60    0.091819369    0   0
+   70    0.091715161    0   0
+   80    0.091614546    3   0
+Solution converged in 87 iterations with final
+                                            objective=0.091546221, slow progress with global relative
+                                            objective=0.000009653<=1e-05 for 10 non-consecutive
+                                            iterations
+   87    0.091546221    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 4.2169650342858225e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.090506822    0   0
+   10    0.090380727    0   0
+   20    0.090259249    0   0
+   30    0.090142014    0   0
+   40    0.090028763    0   0
+   50    0.089919261    0   0
+   60    0.089813307    0   0
+   70    0.089710705    0   0
+   80    0.089611324    7   0
+Solution converged in 83 iterations with final
+                                            objective=0.089582110, slow progress with global relative
+                                            objective=0.000009708<=1e-05 for 10 non-consecutive
+                                            iterations
+   83    0.089582110    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 3.162277660168379e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.088694574    0   0
+   10    0.088573681    0   0
+   20    0.088456673    0   0
+   30    0.088343296    0   0
+   40    0.088233366    0   0
+   50    0.088126710    0   0
+   60    0.088023175    0   0
+   70    0.087922624    3   0
+Solution converged in 77 iterations with final
+                                            objective=0.087853942, slow progress with global relative
+                                            objective=0.000009728<=1e-05 for 10 non-consecutive
+                                            iterations
+   77    0.087853942    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 2.3713737056616554e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.087107253    0   0
+   10    0.086991257    0   0
+   20    0.086878619    0   0
+   30    0.086769161    0   0
+   40    0.086662740    0   0
+   50    0.086559226    0   0
+   60    0.086458502    2   0
+Solution converged in 68 iterations with final
+                                            objective=0.086379859, slow progress with global relative
+                                            objective=0.000009738<=1e-05 for 10 non-consecutive
+                                            iterations
+   68    0.086379859    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 1.7782794100389227e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.085762607    0   0
+   10    0.085650862    0   0
+   20    0.085542399    0   0
+   30    0.085436793    0   0
+   40    0.085333928    0   0
+   50    0.085233698    4   0
+Solution converged in 56 iterations with final
+                                            objective=0.085174784, slow progress with global relative
+                                            objective=0.000009756<=1e-05 for 10 non-consecutive
+                                            iterations
+   56    0.085174784    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 1.333521432163324e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.084674148    0   0
+   10    0.084565703    0   0
+   20    0.084460010    0   0
+   30    0.084356963    0   0
+   40    0.084256463    3   0
+Solution converged in 47 iterations with final
+                                            objective=0.084187580, slow progress with global relative
+                                            objective=0.000009768<=1e-05 for 10 non-consecutive
+                                            iterations
+   47    0.084187580    10   0
+Starting optimization for lambda_A: 7.847599703514622e-06 lambda_rho: 1e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.083786780    0   0
+   10    0.083681054    0   0
+   20    0.083577901    0   0
+   30    0.083477229    2   0
+Solution converged in 38 iterations with final
+                                            objective=0.083398417, slow progress with global relative
+                                            objective=0.000009769<=1e-05 for 10 non-consecutive
+                                            iterations
+   38    0.083398417    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 0.0001
+Iter    objective   convergence_count   no_progress_count
+    0    1.311569451    0   0
+   10    0.326491954    0   0
+   20    0.225018799    0   0
+   30    0.198292913    0   0
+   40    0.187109983    0   0
+   50    0.181124852    0   0
+   60    0.177269980    0   0
+   70    0.174553751    0   0
+   80    0.172660048    0   0
+   90    0.171217629    0   0
+  100    0.170028954    0   0
+  110    0.169120239    0   0
+  120    0.168390001    0   0
+  130    0.167768763    0   0
+  140    0.167221193    0   0
+  150    0.166759206    0   0
+  160    0.166360466    0   0
+  170    0.166000106    0   0
+  180    0.165683933    0   0
+  190    0.165398531    0   0
+  200    0.165141376    0   0
+  210    0.164908579    0   0
+  220    0.164696895    0   0
+  230    0.164500097    0   0
+  240    0.164322293    0   0
+  250    0.164157274    0   0
+  260    0.164000866    0   0
+  270    0.163853506    0   0
+  280    0.163717510    0   0
+  290    0.163590548    0   0
+  300    0.163474755    0   0
+  310    0.163369208    1   0
+Solution converged in 319 iterations with final
+                                            objective=0.163281921, slow progress with global relative
+                                            objective=0.000009525<=1e-05 for 10 non-consecutive
+                                            iterations
+  319    0.163281921    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 7.498942093324559e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.159783380    0   0
+   10    0.159683396    0   0
+Solution converged in 20 iterations with final
+                                            objective=0.159597743, slow progress with global relative
+                                            objective=0.000008040<=1e-05 for 10 non-consecutive
+                                            iterations
+   20    0.159597743    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 5.623413251903491e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.156877947    0   0
+   10    0.156636360    0   0
+   20    0.156445947    0   0
+   30    0.156290069    0   0
+   40    0.156158938    0   0
+   50    0.156046451    0   0
+   60    0.155948399    7   0
+Solution converged in 63 iterations with final
+                                            objective=0.155921327, slow progress with global relative
+                                            objective=0.000008910<=1e-05 for 10 non-consecutive
+                                            iterations
+   63    0.155921327    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 4.216965034285822e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.153326260    0   0
+   10    0.153030619    0   0
+   20    0.152793206    0   0
+   30    0.152595403    0   0
+   40    0.152426179    0   0
+   50    0.152279003    0   0
+   60    0.152148962    0   0
+   70    0.152032898    0   0
+   80    0.151928749    1   0
+Solution converged in 89 iterations with final
+                                            objective=0.151843021, slow progress with global relative
+                                            objective=0.000009192<=1e-05 for 10 non-consecutive
+                                            iterations
+   89    0.151843021    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 3.1622776601683795e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.149047231    0   0
+   10    0.148731117    0   0
+   20    0.148471871    0   0
+   30    0.148251648    0   0
+   40    0.148059822    0   0
+   50    0.147890081    0   0
+   60    0.147737232    0   0
+   70    0.147598179    0   0
+   80    0.147471404    0   0
+   90    0.147354932    0   0
+  100    0.147247251    0   0
+  110    0.147147610    6   0
+Solution converged in 114 iterations with final
+                                            objective=0.147109755, slow progress with global relative
+                                            objective=0.000009352<=1e-05 for 10 non-consecutive
+                                            iterations
+  114    0.147109755    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 2.3713737056616554e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.143925436    0   0
+   10    0.143597608    0   0
+   20    0.143327548    0   0
+   30    0.143096726    0   0
+   40    0.142894996    0   0
+   50    0.142715829    0   0
+   60    0.142555013    0   0
+   70    0.142408913    0   0
+   80    0.142276802    0   0
+   90    0.142155038    0   0
+  100    0.142042233    0   0
+  110    0.141936411    0   0
+  120    0.141837646    7   0
+Solution converged in 123 iterations with final
+                                            objective=0.141809208, slow progress with global relative
+                                            objective=0.000009428<=1e-05 for 10 non-consecutive
+                                            iterations
+  123    0.141809208    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 1.778279410038923e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.138235126    0   0
+   10    0.137908027    0   0
+   20    0.137642193    0   0
+   30    0.137417339    0   0
+   40    0.137221210    0   0
+   50    0.137045748    0   0
+   60    0.136886231    0   0
+   70    0.136740382    0   0
+   80    0.136605440    0   0
+   90    0.136479714    0   0
+  100    0.136361974    0   0
+  110    0.136253122    0   0
+  120    0.136151503    3   0
+Solution converged in 127 iterations with final
+                                            objective=0.136083678, slow progress with global relative
+                                            objective=0.000009543<=1e-05 for 10 non-consecutive
+                                            iterations
+  127    0.136083678    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 1.333521432163324e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.132249949    0   0
+   10    0.131936909    0   0
+   20    0.131685397    0   0
+   30    0.131473762    0   0
+   40    0.131291173    0   0
+   50    0.131131380    0   0
+   60    0.130987424    0   0
+   70    0.130856061    0   0
+   80    0.130734466    0   0
+   90    0.130621726    0   0
+  100    0.130516616    0   0
+Solution converged in 110 iterations with final
+                                            objective=0.130419998, slow progress with global relative
+                                            objective=0.000009248<=1e-05 for 10 non-consecutive
+                                            iterations
+  110    0.130419998    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 1e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.126578943    0   0
+   10    0.126290506    0   0
+   20    0.126065232    0   0
+   30    0.125878020    0   0
+   40    0.125715508    0   0
+   50    0.125570968    0   0
+   60    0.125440682    0   0
+   70    0.125321814    0   0
+   80    0.125212710    0   0
+   90    0.125112451    5   0
+Solution converged in 95 iterations with final
+                                            objective=0.125064825, slow progress with global relative
+                                            objective=0.000009402<=1e-05 for 10 non-consecutive
+                                            iterations
+   95    0.125064825    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 7.498942093324558e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.121401350    0   0
+   10    0.121133717    0   0
+   20    0.120922715    0   0
+   30    0.120746271    0   0
+   40    0.120594314    0   0
+   50    0.120461846    0   0
+   60    0.120342586    0   0
+   70    0.120234402    0   0
+   80    0.120135485    7   0
+Solution converged in 83 iterations with final
+                                            objective=0.120107192, slow progress with global relative
+                                            objective=0.000009361<=1e-05 for 10 non-consecutive
+                                            iterations
+   83    0.120107192    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 5.623413251903491e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.116740671    0   0
+   10    0.116500412    0   0
+   20    0.116309743    0   0
+   30    0.116148699    0   0
+   40    0.116007711    0   0
+   50    0.115883933    0   0
+   60    0.115771780    0   0
+   70    0.115668853    2   0
+Solution converged in 78 iterations with final
+                                            objective=0.115591996, slow progress with global relative
+                                            objective=0.000009323<=1e-05 for 10 non-consecutive
+                                            iterations
+   78    0.115591996    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 4.216965034285822e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.112565748    0   0
+   10    0.112350248    0   0
+   20    0.112176193    0   0
+   30    0.112027106    0   0
+   40    0.111895118    0   0
+   50    0.111776152    0   0
+   60    0.111668100    0   0
+   70    0.111570071    7   0
+Solution converged in 73 iterations with final
+                                            objective=0.111542170, slow progress with global relative
+                                            objective=0.000009236<=1e-05 for 10 non-consecutive
+                                            iterations
+   73    0.111542170    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 3.162277660168379e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.108872731    0   0
+   10    0.108676982    0   0
+   20    0.108514216    0   0
+   30    0.108372219    0   0
+   40    0.108245516    0   0
+   50    0.108130973    0   0
+   60    0.108025489    0   0
+   70    0.107927547    8   0
+Solution converged in 72 iterations with final
+                                            objective=0.107908706, slow progress with global relative
+                                            objective=0.000009392<=1e-05 for 10 non-consecutive
+                                            iterations
+   72    0.107908706    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 2.3713737056616552e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.105575081    0   0
+   10    0.105395392    0   0
+   20    0.105240441    0   0
+   30    0.105102969    0   0
+   40    0.104978387    0   0
+   50    0.104863542    0   0
+   60    0.104756473    0   0
+   70    0.104656251    4   0
+Solution converged in 76 iterations with final
+                                            objective=0.104599403, slow progress with global relative
+                                            objective=0.000009342<=1e-05 for 10 non-consecutive
+                                            iterations
+   76    0.104599403    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 1.778279410038923e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.102560230    0   0
+   10    0.102394886    0   0
+   20    0.102247288    0   0
+   30    0.102112166    0   0
+   40    0.101986934    0   0
+   50    0.101869584    0   0
+   60    0.101760230    0   0
+   70    0.101658371    2   0
+Solution converged in 78 iterations with final
+                                            objective=0.101580740, slow progress with global relative
+                                            objective=0.000009530<=1e-05 for 10 non-consecutive
+                                            iterations
+   78    0.101580740    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 1.333521432163324e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.099802071    0   0
+   10    0.099645982    0   0
+   20    0.099503166    0   0
+   30    0.099370883    0   0
+   40    0.099246781    0   0
+   50    0.099129640    0   0
+   60    0.099018587    0   0
+   70    0.098912961    0   0
+   80    0.098812273    4   0
+Solution converged in 86 iterations with final
+                                            objective=0.098754273, slow progress with global relative
+                                            objective=0.000009544<=1e-05 for 10 non-consecutive
+                                            iterations
+   86    0.098754273    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 1e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.097191996    0   0
+   10    0.097045818    0   0
+   20    0.096909127    0   0
+   30    0.096780073    0   0
+   40    0.096657713    0   0
+   50    0.096541510    0   0
+   60    0.096430862    0   0
+   70    0.096325047    0   0
+   80    0.096223673    2   0
+Solution converged in 88 iterations with final
+                                            objective=0.096145578, slow progress with global relative
+                                            objective=0.000009621<=1e-05 for 10 non-consecutive
+                                            iterations
+   88    0.096145578    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 7.498942093324558e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.094776909    0   0
+   10    0.094637885    0   0
+   20    0.094506227    0   0
+   30    0.094380708    0   0
+   40    0.094260711    0   0
+   50    0.094145891    0   0
+   60    0.094035883    0   0
+   70    0.093930302    0   0
+   80    0.093828762    1   0
+Solution converged in 89 iterations with final
+                                            objective=0.093740622, slow progress with global relative
+                                            objective=0.000009648<=1e-05 for 10 non-consecutive
+                                            iterations
+   89    0.093740622    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 5.62341325190349e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.092545740    0   0
+   10    0.092413305    0   0
+   20    0.092286517    0   0
+   30    0.092164785    0   0
+   40    0.092047694    0   0
+   50    0.091934976    0   0
+   60    0.091826812    0   0
+   70    0.091722447    0   0
+   80    0.091621667    3   0
+Solution converged in 87 iterations with final
+                                            objective=0.091553149, slow progress with global relative
+                                            objective=0.000009689<=1e-05 for 10 non-consecutive
+                                            iterations
+   87    0.091553149    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 4.2169650342858225e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.090519264    0   0
+   10    0.090392762    0   0
+   20    0.090270874    0   0
+   30    0.090153227    0   0
+   40    0.090039549    0   0
+   50    0.089929608    0   0
+   60    0.089823204    0   0
+   70    0.089720166    0   0
+   80    0.089620314    5   0
+Solution converged in 85 iterations with final
+                                            objective=0.089571536, slow progress with global relative
+                                            objective=0.000009696<=1e-05 for 10 non-consecutive
+                                            iterations
+   85    0.089571536    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 3.162277660168379e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.088685747    0   0
+   10    0.088565013    0   0
+   20    0.088448126    0   0
+   30    0.088334831    0   0
+   40    0.088224949    0   0
+   50    0.088118308    0   0
+   60    0.088014757    0   0
+   70    0.087914162    3   0
+Solution converged in 77 iterations with final
+                                            objective=0.087845477, slow progress with global relative
+                                            objective=0.000009727<=1e-05 for 10 non-consecutive
+                                            iterations
+   77    0.087845477    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 2.3713737056616554e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.087100243    0   0
+   10    0.086984278    0   0
+   20    0.086871650    0   0
+   30    0.086762188    0   0
+   40    0.086655753    0   0
+   50    0.086552216    0   0
+   60    0.086451456    2   0
+Solution converged in 68 iterations with final
+                                            objective=0.086372796, slow progress with global relative
+                                            objective=0.000009741<=1e-05 for 10 non-consecutive
+                                            iterations
+   68    0.086372796    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 1.7782794100389227e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.085756702    0   0
+   10    0.085644894    0   0
+   20    0.085536064    0   0
+   30    0.085430076    0   0
+   40    0.085326817    0   0
+   50    0.085226188    3   0
+Solution converged in 57 iterations with final
+                                            objective=0.085157260, slow progress with global relative
+                                            objective=0.000009772<=1e-05 for 10 non-consecutive
+                                            iterations
+   57    0.085157260    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 1.333521432163324e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.084656923    0   0
+   10    0.084548340    0   0
+   20    0.084442489    0   0
+   30    0.084339267    0   0
+   40    0.084238576    2   0
+Solution converged in 48 iterations with final
+                                            objective=0.084159787, slow progress with global relative
+                                            objective=0.000009764<=1e-05 for 10 non-consecutive
+                                            iterations
+   48    0.084159787    10   0
+Starting optimization for lambda_A: 5.455594781168514e-06 lambda_rho: 1e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.083758809    0   0
+   10    0.083653133    0   0
+   20    0.083550010    0   0
+   30    0.083449346    2   0
+Solution converged in 38 iterations with final
+                                            objective=0.083370532, slow progress with global relative
+                                            objective=0.000009770<=1e-05 for 10 non-consecutive
+                                            iterations
+   38    0.083370532    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 0.0001
+Iter    objective   convergence_count   no_progress_count
+    0    1.311876600    0   0
+   10    0.326383654    0   0
+   20    0.224999757    0   0
+   30    0.198037488    0   0
+   40    0.186585755    0   0
+   50    0.180330801    0   0
+   60    0.176278155    0   0
+   70    0.173392558    0   0
+   80    0.171328955    0   0
+   90    0.169737773    0   0
+  100    0.168433356    0   0
+  110    0.167418345    0   0
+  120    0.166577108    0   0
+  130    0.165869710    0   0
+  140    0.165249523    0   0
+  150    0.164715091    0   0
+  160    0.164256694    0   0
+  170    0.163842961    0   0
+  180    0.163471186    0   0
+  190    0.163132380    0   0
+  200    0.162819790    0   0
+  210    0.162541175    0   0
+  220    0.162284587    0   0
+  230    0.162042355    0   0
+  240    0.161823295    0   0
+  250    0.161619565    0   0
+  260    0.161424287    0   0
+  270    0.161240652    0   0
+  280    0.161073392    0   0
+  290    0.160913960    0   0
+  300    0.160763350    0   0
+  310    0.160624614    0   0
+  320    0.160495670    0   0
+  330    0.160374408    0   0
+  340    0.160265603    0   0
+  350    0.160164949    4   0
+Solution converged in 356 iterations with final
+                                            objective=0.160106602, slow progress with global relative
+                                            objective=0.000009567<=1e-05 for 10 non-consecutive
+                                            iterations
+  356    0.160106602    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 7.498942093324559e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.156966635    0   0
+   10    0.156868849    0   0
+Solution converged in 20 iterations with final
+                                            objective=0.156784099, slow progress with global relative
+                                            objective=0.000008018<=1e-05 for 10 non-consecutive
+                                            iterations
+   20    0.156784099    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 5.623413251903491e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.154350392    0   0
+   10    0.154139972    0   0
+   20    0.153972245    0   0
+   30    0.153833568    0   0
+   40    0.153715653    0   0
+   50    0.153613151    3   0
+Solution converged in 57 iterations with final
+                                            objective=0.153548702, slow progress with global relative
+                                            objective=0.000008861<=1e-05 for 10 non-consecutive
+                                            iterations
+   57    0.153548702    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 4.216965034285822e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.151308127    0   0
+   10    0.151056725    0   0
+   20    0.150853550    0   0
+   30    0.150683304    0   0
+   40    0.150536886    0   0
+   50    0.150408397    0   0
+   60    0.150294589    0   0
+   70    0.150192868    3   0
+Solution converged in 77 iterations with final
+                                            objective=0.150127534, slow progress with global relative
+                                            objective=0.000009060<=1e-05 for 10 non-consecutive
+                                            iterations
+   77    0.150127534    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 3.1622776601683795e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.147849410    0   0
+   10    0.147585110    0   0
+   20    0.147366115    0   0
+   30    0.147178724    0   0
+   40    0.147014144    0   0
+   50    0.146867261    0   0
+   60    0.146735290    0   0
+   70    0.146615180    0   0
+   80    0.146504499    0   0
+   90    0.146402483    3   0
+Solution converged in 97 iterations with final
+                                            objective=0.146335583, slow progress with global relative
+                                            objective=0.000009358<=1e-05 for 10 non-consecutive
+                                            iterations
+   97    0.146335583    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 2.3713737056616554e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.143862255    0   0
+   10    0.143578216    0   0
+   20    0.143338537    0   0
+   30    0.143129510    0   0
+   40    0.142942427    0   0
+   50    0.142772602    0   0
+   60    0.142616726    0   0
+   70    0.142473022    0   0
+   80    0.142340543    0   0
+   90    0.142216664    0   0
+  100    0.142100536    0   0
+  110    0.141991286    0   0
+  120    0.141888045    0   0
+  130    0.141790273    9   0
+Solution converged in 131 iterations with final
+                                            objective=0.141780764, slow progress with global relative
+                                            objective=0.000009509<=1e-05 for 10 non-consecutive
+                                            iterations
+  131    0.141780764    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 1.778279410038923e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.138888686    0   0
+   10    0.138596346    0   0
+   20    0.138347817    0   0
+   30    0.138129656    0   0
+   40    0.137933070    0   0
+   50    0.137752916    0   0
+   60    0.137586131    0   0
+   70    0.137432680    0   0
+   80    0.137288662    0   0
+   90    0.137153057    0   0
+  100    0.137026048    0   0
+  110    0.136906168    0   0
+  120    0.136791929    0   0
+  130    0.136682904    0   0
+  140    0.136578831    0   0
+  150    0.136479682    7   0
+Solution converged in 153 iterations with final
+                                            objective=0.136450798, slow progress with global relative
+                                            objective=0.000009595<=1e-05 for 10 non-consecutive
+                                            iterations
+  153    0.136450798    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 1.333521432163324e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.133100731    0   0
+   10    0.132810290    0   0
+   20    0.132567316    0   0
+   30    0.132353553    0   0
+   40    0.132160737    0   0
+   50    0.131984365    0   0
+   60    0.131820475    0   0
+   70    0.131668871    0   0
+   80    0.131527051    0   0
+   90    0.131395496    0   0
+  100    0.131271858    0   0
+  110    0.131153715    0   0
+  120    0.131041371    0   0
+  130    0.130936223    0   0
+  140    0.130837181    7   0
+Solution converged in 143 iterations with final
+                                            objective=0.130808550, slow progress with global relative
+                                            objective=0.000009496<=1e-05 for 10 non-consecutive
+                                            iterations
+  143    0.130808550    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 1e-05
+Iter    objective   convergence_count   no_progress_count
+    0    0.127212388    0   0
+   10    0.126940985    0   0
+   20    0.126721593    0   0
+   30    0.126535623    0   0
+   40    0.126374576    0   0
+   50    0.126233968    0   0
+   60    0.126108594    0   0
+   70    0.125996147    0   0
+   80    0.125894777    4   0
+Solution converged in 86 iterations with final
+                                            objective=0.125838215, slow progress with global relative
+                                            objective=0.000009141<=1e-05 for 10 non-consecutive
+                                            iterations
+   86    0.125838215    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 7.498942093324558e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.122427945    0   0
+   10    0.122173389    0   0
+   20    0.121969130    0   0
+   30    0.121793463    0   0
+   40    0.121637818    0   0
+   50    0.121496499    0   0
+   60    0.121366368    0   0
+   70    0.121245233    0   0
+   80    0.121130651    0   0
+   90    0.121022062    0   0
+  100    0.120919191    0   0
+  110    0.120821312    9   0
+Solution converged in 111 iterations with final
+                                            objective=0.120811824, slow progress with global relative
+                                            objective=0.000009488<=1e-05 for 10 non-consecutive
+                                            iterations
+  111    0.120811824    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 5.623413251903491e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.117502976    0   0
+   10    0.117279081    0   0
+   20    0.117092044    0   0
+   30    0.116927917    0   0
+   40    0.116780370    0   0
+   50    0.116645276    0   0
+   60    0.116520972    0   0
+   70    0.116405133    0   0
+   80    0.116295296    0   0
+   90    0.116191252    0   0
+Solution converged in 100 iterations with final
+                                            objective=0.116095137, slow progress with global relative
+                                            objective=0.000009352<=1e-05 for 10 non-consecutive
+                                            iterations
+  100    0.116095137    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 4.216965034285822e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.113065632    0   0
+   10    0.112867721    0   0
+   20    0.112698317    0   0
+   30    0.112547229    0   0
+   40    0.112410951    0   0
+   50    0.112286719    0   0
+   60    0.112171205    0   0
+   70    0.112064068    0   0
+   80    0.111963309    4   0
+Solution converged in 86 iterations with final
+                                            objective=0.111905395, slow progress with global relative
+                                            objective=0.000009531<=1e-05 for 10 non-consecutive
+                                            iterations
+   86    0.111905395    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 3.162277660168379e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.109228245    0   0
+   10    0.109043909    0   0
+   20    0.108884923    0   0
+   30    0.108740849    0   0
+   40    0.108607740    0   0
+   50    0.108483575    0   0
+   60    0.108367105    0   0
+   70    0.108256796    0   0
+   80    0.108152179    0   0
+   90    0.108053467    7   0
+Solution converged in 93 iterations with final
+                                            objective=0.108024741, slow progress with global relative
+                                            objective=0.000009535<=1e-05 for 10 non-consecutive
+                                            iterations
+   93    0.108024741    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 2.3713737056616552e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.105658757    0   0
+   10    0.105490457    0   0
+   20    0.105342750    0   0
+   30    0.105208368    0   0
+   40    0.105083950    0   0
+   50    0.104968381    0   0
+   60    0.104860041    0   0
+   70    0.104757170    0   0
+Solution converged in 80 iterations with final
+                                            objective=0.104659187, slow progress with global relative
+                                            objective=0.000009601<=1e-05 for 10 non-consecutive
+                                            iterations
+   80    0.104659187    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 1.778279410038923e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.102612752    0   0
+   10    0.102450710    0   0
+   20    0.102304383    0   0
+   30    0.102168518    0   0
+   40    0.102040780    0   0
+   50    0.101919878    0   0
+   60    0.101804915    0   0
+   70    0.101695605    0   0
+   80    0.101591540    0   0
+   90    0.101492575    7   0
+Solution converged in 93 iterations with final
+                                            objective=0.101463909, slow progress with global relative
+                                            objective=0.000009516<=1e-05 for 10 non-consecutive
+                                            iterations
+   93    0.101463909    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 1.333521432163324e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.099661751    0   0
+   10    0.099510389    0   0
+   20    0.099369826    0   0
+   30    0.099237544    0   0
+   40    0.099112296    0   0
+   50    0.098993379    0   0
+   60    0.098880090    0   0
+   70    0.098773267    0   0
+   80    0.098673483    6   0
+Solution converged in 84 iterations with final
+                                            objective=0.098634953, slow progress with global relative
+                                            objective=0.000009572<=1e-05 for 10 non-consecutive
+                                            iterations
+   84    0.098634953    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 1e-06
+Iter    objective   convergence_count   no_progress_count
+    0    0.097068937    0   0
+   10    0.096923197    0   0
+   20    0.096786433    0   0
+   30    0.096657326    0   0
+   40    0.096534864    0   0
+   50    0.096418672    0   0
+   60    0.096307891    0   0
+   70    0.096201717    0   0
+   80    0.096100006    2   0
+Solution converged in 88 iterations with final
+                                            objective=0.096022470, slow progress with global relative
+                                            objective=0.000009561<=1e-05 for 10 non-consecutive
+                                            iterations
+   88    0.096022470    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 7.498942093324558e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.094653826    0   0
+   10    0.094515646    0   0
+   20    0.094384379    0   0
+   30    0.094258991    0   0
+   40    0.094138851    0   0
+   50    0.094023532    0   0
+   60    0.093912786    0   0
+   70    0.093806482    0   0
+   80    0.093704456    0   0
+Solution converged in 90 iterations with final
+                                            objective=0.093606452, slow progress with global relative
+                                            objective=0.000009620<=1e-05 for 10 non-consecutive
+                                            iterations
+   90    0.093606452    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 5.62341325190349e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.092411552    0   0
+   10    0.092279622    0   0
+   20    0.092153151    0   0
+   30    0.092031771    0   0
+   40    0.091914892    0   0
+   50    0.091802350    0   0
+   60    0.091694001    0   0
+   70    0.091589558    0   0
+   80    0.091488722    3   0
+Solution converged in 87 iterations with final
+                                            objective=0.091420123, slow progress with global relative
+                                            objective=0.000009703<=1e-05 for 10 non-consecutive
+                                            iterations
+   87    0.091420123    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 4.2169650342858225e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.090387078    0   0
+   10    0.090260476    0   0
+   20    0.090138367    0   0
+   30    0.090020438    0   0
+   40    0.089906555    0   0
+   50    0.089797705    0   0
+   60    0.089692943    0   0
+   70    0.089591510    0   0
+Solution converged in 80 iterations with final
+                                            objective=0.089493218, slow progress with global relative
+                                            objective=0.000009683<=1e-05 for 10 non-consecutive
+                                            iterations
+   80    0.089493218    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 3.162277660168379e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.088614208    0   0
+   10    0.088493574    0   0
+   20    0.088376819    0   0
+   30    0.088263628    0   0
+   40    0.088153810    0   0
+   50    0.088047212    0   0
+   60    0.087943678    0   0
+   70    0.087843076    3   0
+Solution converged in 77 iterations with final
+                                            objective=0.087774325, slow progress with global relative
+                                            objective=0.000009739<=1e-05 for 10 non-consecutive
+                                            iterations
+   77    0.087774325    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 2.3713737056616554e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.087034045    0   0
+   10    0.086917963    0   0
+   20    0.086805335    0   0
+   30    0.086695846    0   0
+   40    0.086589347    0   0
+   50    0.086485713    0   0
+   60    0.086384848    2   0
+Solution converged in 68 iterations with final
+                                            objective=0.086306068, slow progress with global relative
+                                            objective=0.000009757<=1e-05 for 10 non-consecutive
+                                            iterations
+   68    0.086306068    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 1.7782794100389227e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.085693629    0   0
+   10    0.085581639    0   0
+   20    0.085472607    0   0
+   30    0.085366433    0   0
+   40    0.085263186    0   0
+   50    0.085162546    3   0
+Solution converged in 57 iterations with final
+                                            objective=0.085093598, slow progress with global relative
+                                            objective=0.000009776<=1e-05 for 10 non-consecutive
+                                            iterations
+   57    0.085093598    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 1.333521432163324e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.084595960    0   0
+   10    0.084487317    0   0
+   20    0.084381387    0   0
+   30    0.084278066    0   0
+   40    0.084177258    2   0
+Solution converged in 48 iterations with final
+                                            objective=0.084098388, slow progress with global relative
+                                            objective=0.000009774<=1e-05 for 10 non-consecutive
+                                            iterations
+   48    0.084098388    10   0
+Starting optimization for lambda_A: 3.7926901907322535e-06 lambda_rho: 1e-07
+Iter    objective   convergence_count   no_progress_count
+    0    0.083699392    0   0
+   10    0.083593603    0   0
+   20    0.083490349    0   0
+   30    0.083389538    2   0
+Solution converged in 38 iterations with final
+                                            objective=0.083310592, slow progress with global relative
+                                            objective=0.000009787<=1e-05 for 10 non-consecutive
+                                            iterations
+   38    0.083310592    10   0
+Starting optimization for lambda_A: 2.6366508987303555e-06 lambda_rho: 0.0001
+Iter    objective   convergence_count   no_progress_count
+    0    1.305869723    0   0
+   10    0.327939755    0   0
+   20    0.225852237    0   0
+   30    0.197933375    0   0
+   40    0.185682200    0   0
+   50    0.178943819    0   0
+   60    0.174512481    0   0
+   70    0.171317781    0   0
+   80    0.168995619    0   0
+   90    0.167203151    0   0
+  100    0.165743634    0   0
+  110    0.164550424    0   0
+  120    0.163559006    0   0
+  130    0.162715315    0   0
+  140    0.161972304    0   0
+  150    0.161328049    0   0
+  160    0.160778236    0   0
+  170    0.160293722    0   0
+  180    0.159845279    0   0
