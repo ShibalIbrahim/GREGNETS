@@ -16,9 +16,7 @@ from tensorflow.python.keras.layers.advanced_activations import LeakyReLU
 from tensorflow.keras import regularizers
 from stellargraph.layer import GCN_LSTM
 
-from src.Layers import layers
-from src.Layers import layers_stgcn
-from src.Layers import layers_gcrnn
+from src.NNPC.Layers import layers
 
 _SEED = 8
 np.random.seed(_SEED)
@@ -59,44 +57,6 @@ def create_var_model(
     model = Model(inputs=[x_input], outputs=[y_pred])
         
     return model
-
-
-# ------------------------------------------ SVAR -----------------------------------------
-def create_svar_model(
-        input_shape=None,
-        use_bias=True,
-        kernel_regularizer=None,
-        kernel_initializer=tf.keras.initializers.GlorotUniform(seed=_SEED),
-        kernel_constraint=None,
-        bias_regularizer=None,
-        bias_initializer='zeros',
-        bias_constraint=None,
-    ):
-    """Instantiates SVAR model.
-    
-    Args:
-      input_shape: input shape to setup model input, (num (time) samples, num nodes, num past time samples)
-      kernel_regularizer: Regularizer function applied to the "kernel" weights matrix
-      kernel_initializer: Initializer for the 'kernel' weights matrix.
-    
-    Returns:
-      VAR Keras model with output shape: (num samples, num nodes).
-    """
-    x_input = Input(name='input', shape=input_shape)
-    y_pred = layers.SVAR(
-        use_bias=use_bias, 
-        kernel_initializer=kernel_initializer,
-        bias_initializer='zeros',
-        kernel_regularizer=kernel_regularizer,
-        bias_regularizer=bias_regularizer,
-        kernel_constraint=kernel_constraint,
-        bias_constraint=bias_constraint,
-    )(x_input)
-              
-    model = Model(inputs=[x_input], outputs=[y_pred])
-        
-    return model
-
 
 # ------------------------------------------ GCN -----------------------------------------
 def create_gcn_model(
@@ -152,65 +112,6 @@ def create_gcn_model(
     model = Model(inputs=[x_input], outputs=[y_pred])
         
     return model
-
-
-# ------------------------------------------ PGCN -----------------------------------------
-def create_pgcn_model(
-        input_shape=None,
-        units=(1,),
-        activation=None,
-        output_activation="linear",
-        supports=None,
-        regularization_weight=None,
-        use_bias=True,
-        kernel_regularizer=None,
-        kernel_initializer=tf.keras.initializers.GlorotUniform(seed=_SEED),
-        kernel_constraint=None,
-        bias_regularizer=None,
-        bias_initializer='zeros',
-        bias_constraint=None,
-    ):
-    """Instantiates PGCN model.
-    
-    Args:
-      input_shape: input shape to setup model input, (num (time) samples, num nodes, num past time samples)
-      hidden_units: units for each hidden layer, tuple.
-      activation: Activation function to use for hidden layers.
-        If you don't specify anything, no activation is applied (i.e. "linear" activation 'a(x) = x').
-      supports: list of knowledge graphs' adjacency matrices, [(num nodes, num nodes)] 
-      kernel_regularizer: Regularizer function applied to the "kernel" weights matrix
-      kernel_initializer: Initializer for the 'kernel' weights matrix.
-    
-    Returns:
-      GCN Keras model with output shape: (num samples, num nodes).
-    """
-    x_input = Input(name='input', shape=input_shape)
-    y_pred = x_input
-    for i, u in enumerate(units):
-        y_pred = layers.PerturbedGraphConvolution(
-            units=u, 
-            supports=supports,
-            regularization_weight=regularization_weight,
-            activation=None,
-            use_bias=use_bias, 
-            kernel_initializer=kernel_initializer,
-            bias_initializer='zeros',
-            kernel_regularizer=kernel_regularizer,
-            bias_regularizer=bias_regularizer,
-            kernel_constraint=kernel_constraint,
-            bias_constraint=bias_constraint,
-        )(y_pred)
-        if i<len(units)-1:
-            y_pred = tf.keras.layers.Activation(activation)(y_pred)
-        else:
-            y_pred = tf.keras.layers.Activation(output_activation)(y_pred)
-        
-    y_pred = Lambda(lambda x: tf.squeeze(x, [-1]), 'Squeeze')(y_pred)
-        
-    model = Model(inputs=[x_input], outputs=[y_pred])
-        
-    return model
-
 
 # ------------------------------------------- N-GCN -----------------------------------------
 def create_ngcn_model(
@@ -269,152 +170,6 @@ def create_ngcn_model(
         
     return model
 
-# ------------------------------------------- ST-GCN -----------------------------------------
-def create_stgcn_model(
-        input_shape=None,
-        Ks=None,
-        graph_kernel=None,
-        Kt=None,
-        channel_blocks=None,
-        dropout=None,
-        temporal_activation='glu',
-        spatial_activation='relu',
-        use_bias=False,
-        kernel_regularizer=tf.keras.regularizers.l2(1.0),
-        kernel_initializer=tf.keras.initializers.GlorotUniform(seed=_SEED)
-    ):
-    """Instantiates ST-GCN model.
-    
-    Args:
-      input_shape: input shape to setup model input, (batch_size, past_time_steps, num_nodes, num_channels/features)
-      Ks: kernel size of spatial convolution, int scaler.
-      graph_kernel: list of graph kernel matrices, [(num_nodes, Ks*num_nodes)]
-      Kt: kernel size of temporal convolution, int scaler.
-      channel_blocks: channel configs of SpatioTemporalConvolutionBlock, list.
-      temporal_activation: Activation function for temporal convolution layers.
-      spatial_activation: Activation function for spatial convolution layers.
-      use_bias: whether to use bias, boolean.
-      kernel_regularizer: Regularizer function applied to the "kernel" weights matrix
-      kernel_initializer: Initializer for the 'kernel' weights matrix.
-    
-    Returns:
-      ST-GCN Keras model with output shape: (num samples, num nodes).
-    """
-    x_input = Input(name='input', shape=input_shape)    
-    
-    # Ko>0: kernel size of temporal convolution in the output layer.
-    Ko = input_shape[0]
-    # ST-Block
-    x = x_input
-    for i, channels in enumerate(channel_blocks):
-        x = layers_stgcn.SpatioTemporalConvolutionBlock(
-            channels,
-            Ks, 
-            graph_kernel,
-            Kt,
-            temporal_activation=temporal_activation,
-            spatial_activation=spatial_activation,
-            use_bias=use_bias,
-            dropout=dropout,
-            name='STBlock{}'.format(i+1),
-            )(x)
-        
-        Ko -= 2 * (Kt - 1)
-
-    # Output Layer
-    if Ko > 1:
-        y_pred = layers_stgcn.OutputBlock(
-            Ko,
-            temporal_activations=[temporal_activation, temporal_activation], # [temporal_activation, 'sigmoid']
-            use_bias=use_bias,
-            kernel_initializer=kernel_initializer,
-            kernel_regularizer=kernel_regularizer,
-            name='OutputBlock',
-        )(x)
-    else:
-        raise ValueError(f'ERROR: kernel size Ko must be greater than 1, but received "{Ko}".')
-
-    y_pred = Lambda(lambda x: tf.squeeze(x, [1, 3]), 'Squeeze')(y_pred)
-    
-    model = Model(inputs=[x_input], outputs=[y_pred])
-    return model
-
-
-# ------------------------------------------- ST-GCN-P -----------------------------------------
-def create_stgcnp_model(
-        input_shape=None,
-        Ks=None,
-        graph_kernel=None,
-        Kt=None,
-        channel_blocks=None,
-        dropout=None,
-        temporal_activation='glu',
-        spatial_activation='relu',
-        use_bias=False,
-        kernel_regularizer=tf.keras.regularizers.l2(1.0),
-        kernel_initializer=tf.keras.initializers.GlorotUniform(seed=_SEED),
-        graph_regularizer=tf.keras.regularizers.l2(1.0),
-        graph_initializer='zeros',
-    ):
-    """Instantiates ST-GCN model.
-    
-    Args:
-      input_shape: input shape to setup model input, (batch_size, past_time_steps, num_nodes, num_channels/features)
-      Ks: kernel size of spatial convolution, int scaler.
-      graph_kernel: list of graph kernel matrices, [(num_nodes, Ks*num_nodes)]
-      Kt: kernel size of temporal convolution, int scaler.
-      channel_blocks: channel configs of SpatioTemporalConvolutionBlock, list.
-      temporal_activation: Activation function for temporal convolution layers.
-      spatial_activation: Activation function for spatial convolution layers.
-      use_bias: whether to use bias, boolean.
-      kernel_regularizer: Regularizer function applied to the "kernel" weights matrix
-      kernel_initializer: Initializer for the 'kernel' weights matrix.
-    
-    Returns:
-      ST-GCN Keras model with output shape: (num samples, num nodes).
-    """
-    x_input = Input(name='input', shape=input_shape)    
-    
-    # Ko>0: kernel size of temporal convolution in the output layer.
-    Ko = input_shape[0]
-    # ST-Block
-    x = x_input
-    for i, channels in enumerate(channel_blocks):
-        x = layers_stgcn.SpatioTemporalConvolutionPerturbBlock(
-            channels,
-            Ks, 
-            graph_kernel,
-            Kt,
-            temporal_activation=temporal_activation,
-            spatial_activation=spatial_activation,
-            use_bias=use_bias,
-            graph_initializer=graph_initializer,
-            graph_regularizer=graph_regularizer,
-            dropout=dropout,
-            name='STBlock{}'.format(i+1),
-            )(x)
-        
-        Ko -= 2 * (Kt - 1)
-
-    # Output Layer
-    if Ko > 1:
-        y_pred = layers_stgcn.OutputBlock(
-            Ko,
-            temporal_activations=[temporal_activation, temporal_activation], # [temporal_activation, 'sigmoid']
-            use_bias=use_bias,
-            kernel_initializer=kernel_initializer,
-            kernel_regularizer=kernel_regularizer,
-            name='OutputBlock',
-        )(x)
-    else:
-        raise ValueError(f'ERROR: kernel size Ko must be greater than 1, but received "{Ko}".')
-
-    y_pred = Lambda(lambda x: tf.squeeze(x, [1, 3]), 'Squeeze')(y_pred)
-    
-    model = Model(inputs=[x_input], outputs=[y_pred])
-    return model
-
-
 # ------------------------------------------- T-GCN -----------------------------------------
 def create_tgcn_model(
         n_steps=None,
@@ -457,31 +212,6 @@ def create_tgcn_model(
     model.layers[-1].activation = tf.keras.activations.linear
     return model
 
-# ------------------------------------------- GCRNN -----------------------------------------
-def create_gcrnn_model(
-        units=8,
-        inputs_dim=1,
-        output_dim=1,
-        adj=None,
-        filter_type='norm_laplacian',
-        activation='tanh',
-        use_bias=True,
-        dropout=None
-    ):
-    num_nodes=adj.shape[0]
-    cell = layers_gcrnn.GCRNNCell(units*num_nodes, adj_mx=adj, use_bias=use_bias, activation=activation, filter_type=filter_type)
-    cell_out = layers_gcrnn.GCRNNCell(units*num_nodes, adj_mx=adj, use_bias=use_bias, num_proj=1, activation=activation, filter_type=filter_type)
-    inp = Input((None, inputs_dim*num_nodes))
-    
-    gcn_in = inp
-    gcn_in = RNN(cell, return_sequences=True)(gcn_in)
-    gcn_in = Dropout(dropout)(gcn_in)
-    #gcn_in = RNN(cell,return_sequences=True)(gcn_in)
-    layer_out = RNN(cell_out, return_sequences=False)
-    ypred = layer_out(gcn_in)
-#     ypred = Dense(num_nodes, activation='linear')(ypred)
-    model = Model(inp, ypred)
-    return model
 
 # --------------------------------------- LSTM --------------------------------------------
 def create_lstm_model(
@@ -609,6 +339,3 @@ def create_model_with_pseudolikelihood(base_model,
 #     print(model.summary())
 
     return model
-
-
-# ---------------------------- Generalized PseudoLikelihood with model --------------------------

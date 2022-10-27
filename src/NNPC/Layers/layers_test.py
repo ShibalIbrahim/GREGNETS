@@ -137,23 +137,6 @@ class CustomLayersTest(tf.test.TestCase):
             fixed_batch_size=False,
             custom_objects={'VAR': layers.VAR}
         )        
-
-    def testSVARLayer(self):
-        input_dim = 3
-        num_nodes = 4
-        num_samples = 10
-        x = np.ones((num_samples, num_nodes, input_dim), dtype=np.float32)
-        output = layer_test(
-            layers.SVAR, 
-            kwargs={'name': 'svar'},
-            input_shape=(num_samples, num_nodes, input_dim),
-            input_dtype=tf.float32,
-            input_data=x,
-            expected_output=None,
-            expected_output_dtype=tf.float32,
-            fixed_batch_size=False,
-            custom_objects={'SVAR': layers.SVAR}
-        )        
         
     def testGraphConvolutionLayer(self):
         input_dim = 3
@@ -173,26 +156,6 @@ class CustomLayersTest(tf.test.TestCase):
             expected_output_dtype=tf.float32,
             fixed_batch_size=False,
             custom_objects={'GraphConvolution': layers.GraphConvolution}
-        )        
-
-    def testPerturbedGraphConvolutionLayer(self):
-        input_dim = 3
-        num_nodes = 4
-        num_samples = 10
-        units = 2        
-        knowledge_graph = np.ones((num_nodes, num_nodes), dtype=np.float32)
-        x = np.ones((num_samples, num_nodes, input_dim), dtype=np.float32)
-        output = layer_test(
-            layers.PerturbedGraphConvolution, 
-            kwargs={'name': 'pgc', 'units': units,
-                    'supports': [knowledge_graph]},
-            input_shape=(num_samples, num_nodes, input_dim),
-            input_dtype=tf.float32,
-            input_data=x,
-            expected_output=None,
-            expected_output_dtype=tf.float32,
-            fixed_batch_size=False,
-            custom_objects={'PerturbedGraphConvolution': layers.PerturbedGraphConvolution}
         )        
         
     def testNGraphConvolutionLayer(self):
@@ -218,10 +181,7 @@ class CustomLayersTest(tf.test.TestCase):
             fixed_batch_size=False,
             custom_objects={'NGraphConvolution': layers.NGraphConvolution}
         )    
-        
-    def testMixHopLayer(self):
-        pass
-            
+                    
     def testPseudolikelihoodLayer(self):
         pass
         

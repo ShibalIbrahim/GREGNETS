@@ -60,10 +60,6 @@ parser.add_argument('--hp_tuning_file', dest='hp_tuning_file',  type=str, defaul
 parser.add_argument('--results_file', dest='results_file',  type=str, default='results.txt')
 parser.add_argument('--settings_file', dest='settings_file',  type=str, default='Settings.txt')
 
-# Tuning Arguments
-parser.add_argument('--tuning_metric', dest='tuning_metric',  type=str, default='mse') # mse
-
-
 # Debugging Arguments
 parser.add_argument('--debugging_file', dest='debugging_file',  type=str, default='Warning.txt')
 
@@ -100,8 +96,8 @@ args.lstm_preestimator_params = {'n_steps': 15, 'optimizer': 'adam', 'lr': 0.001
                                  'kernel_regularizer': tf.keras.regularizers.l2(1e-5),  
                                  'output_activation': 'linear', 'use_bias': True} 
     
-log_folder = """MODEL{}_COHORT{}_TS{}_REG{}_KG{}_MASK{}_Y{}_NTRIALS{}_TUNING{}_V{}""".format(
-    'LSTMPC', args.cohort, args.time_series, args.regularizer, args.knowledge_graph, args.mask, args.num_training_years, args.ntrials, args.tuning_metric, args.version)
+log_folder = """MODEL{}_COHORT{}_TS{}_REG{}_KG{}_MASK{}_Y{}_NTRIALS{}_V{}""".format(
+    'LSTMPC', args.cohort, args.time_series, args.regularizer, args.knowledge_graph, args.mask, args.num_training_years, args.ntrials, args.version)
 
 path = os.path.join(args.log_dir, log_folder)
 os.makedirs(path, exist_ok=True)
@@ -518,7 +514,7 @@ with open(os.path.join(path, args.results_file), 'w') as f:
         print('MSE:{:.5f}, R^2:{:.5f}, MSE-test:{:.5f}, R^2-test:{:.5f}, sparsity:{:.2f}'.format(MSE_train_val, Rsquared_train_val, MSE_test, Rsquared_test, sparsity))        
 print('MSE:{:.5f}, R^2:{:.5f}, MSE-test:{:.5f}, R^2-test:{:.5f}, sparsity:{:.2f}'.format(MSE_train_val, Rsquared_train_val, MSE_test, Rsquared_test, sparsity))        
 model_opt.save_weights(os.path.join(path, 'weights_opt.h5'), overwrite=True)
-model_opt.save(os.path.join(path, "model"))
+# model_opt.save(os.path.join(path, "model"))
 
 
 # ### Visualize partial correlation

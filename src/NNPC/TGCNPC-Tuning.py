@@ -95,8 +95,8 @@ args.tgcn_preestimator_params = {'optimizer': 'adam', 'lr': 0.000215443469003188
                                   'lstm_layer' : 2, 'lstm_layer_size' : 500, 'lstm_activation' : 'relu',
                                   'dropout': 0.44555555555555554, 'seed': 10, 'n_steps': 30}
     
-log_folder = """MODEL{}_COHORT{}_TS{}_REG{}_KG{}_MASK{}_Y{}_NTRIALS{}_TUNING{}_V{}""".format(
-    'TGCNPC', args.cohort, args.time_series, args.regularizer, args.knowledge_graph, args.mask, args.num_training_years, args.ntrials, args.tuning_metric, args.version)
+log_folder = """MODEL{}_COHORT{}_TS{}_REG{}_KG{}_MASK{}_Y{}_NTRIALS{}_V{}""".format(
+    'TGCNPC', args.cohort, args.time_series, args.regularizer, args.knowledge_graph, args.mask, args.num_training_years, args.ntrials, args.version)
 
 path = os.path.join(args.log_dir, log_folder)
 os.makedirs(path, exist_ok=True)
@@ -436,7 +436,7 @@ with open(os.path.join(path, args.results_file), 'w') as f:
         print('MSE:{:.5f}, R^2:{:.5f}, MSE-test:{:.5f}, R^2-test:{:.5f}, sparsity:{:.2f}'.format(MSE_train_val, Rsquared_train_val, MSE_test, Rsquared_test, sparsity))        
 print('MSE:{:.5f}, R^2:{:.5f}, MSE-test:{:.5f}, R^2-test:{:.5f}, sparsity:{:.2f}'.format(MSE_train_val, Rsquared_train_val, MSE_test, Rsquared_test, sparsity))        
 model_opt.save_weights(os.path.join(path, 'weights_opt.h5'), overwrite=True)
-model_opt.save(os.path.join(path, "model"))
+# model_opt.save(os.path.join(path, "model"))
 
 
 # ### Visualize partial correlation

@@ -94,8 +94,8 @@ args.ngcn_preestimator_params = {'optimizer': 'adam', 'lr': 1e-3, 'batch_size': 
                                  'num_layers': 1, 'latent_units': 8, 'units': 8,
                                  'activation': 'relu', 'output_activation': 'linear', 'use_bias': True,
                                  'seed': 10, 'kernel_regularizer': 0.0, 'n_steps': 64}                                                         
-log_folder = """MODEL{}_COHORT{}_TS{}_REG{}_KG{}_MASK{}_Y{}_NTRIALS{}_TUNING{}_V{}""".format(
-    'NGCNPC', args.cohort, args.time_series, args.regularizer, args.knowledge_graph, args.mask, args.num_training_years, args.ntrials, args.tuning_metric, args.version)
+log_folder = """MODEL{}_COHORT{}_TS{}_REG{}_KG{}_MASK{}_Y{}_NTRIALS{}_V{}""".format(
+    'NGCNPC', args.cohort, args.time_series, args.regularizer, args.knowledge_graph, args.mask, args.num_training_years, args.ntrials, args.version)
 
 path = os.path.join(args.log_dir, log_folder)
 os.makedirs(path, exist_ok=True)
@@ -352,10 +352,6 @@ with open(os.path.join(path, args.results_file), 'w') as f:
 #         print('MSE:{:.5f}, R^2:{:.5f}, MSE-val:{:.5f}, R^2-val:{:.5f}, sparsity:{:.2f}'.format(MSE, Rsquared, MSE_val, Rsquared_val, sparsity))        
 
 
-# plt.figure(figsize=(13,10))
-# sb.heatmap(np.absolute(rho_opt[np.ix_(np.arange(100),np.arange(100))]), xticklabels=False, yticklabels=False, cmap="Blues")
-# plt.title('Partial correlation')
-# plt.show()
 
 
 # ## Run with optimal hyperparameters on training+validation data and evaluate performance on test data
@@ -462,7 +458,7 @@ with open(os.path.join(path, args.results_file), 'w') as f:
         print('MSE:{:.5f}, R^2:{:.5f}, MSE-test:{:.5f}, R^2-test:{:.5f}, sparsity:{:.2f}'.format(MSE_train_val, Rsquared_train_val, MSE_test, Rsquared_test, sparsity))        
 print('MSE:{:.5f}, R^2:{:.5f}, MSE-test:{:.5f}, R^2-test:{:.5f}, sparsity:{:.2f}'.format(MSE_train_val, Rsquared_train_val, MSE_test, Rsquared_test, sparsity))        
 model_opt.save_weights(os.path.join(path, 'weights_opt.h5'), overwrite=True)
-model_opt.save(os.path.join(path, "model"))
+# model_opt.save(os.path.join(path, "model"))
 
 
 # ### Visualize partial correlation

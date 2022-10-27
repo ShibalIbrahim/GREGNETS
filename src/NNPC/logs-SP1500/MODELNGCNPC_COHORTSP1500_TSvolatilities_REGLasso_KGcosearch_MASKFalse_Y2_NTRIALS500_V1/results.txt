@@ -1,0 +1,2 @@
+{'K': 5, 'activation': 'relu', 'batch_size': 128, 'dropout': 4.641588833612772e-05, 'epochs': 10000, 'kernel_regularizer': 6.951927961775605e-07, 'knowledge_graph_mask_rho': None, 'knowledge_graph_mask_sparsity_rho': 150, 'lambda_rho': 2.06913808111479e-05, 'latent_units': 16, 'lr': 0.002976351441631319, 'n_steps': 70, 'num_layers': 1, 'optimizer': 'adam', 'output_activation': 'linear', 'post_learning_rate_rho': 1.0, 'regularizer_rho': 'Lasso', 'units': 32, 'use_bias': True}
+MSE:0.07824, R^2:0.48058, MSE-test:0.08865, R^2-test:0.43621, sparsity:29.81

@@ -1,0 +1,14 @@
+Optimal: lambda_A:0.000000297635
+ lambda_rho:1.778279410038923e-05
+ MSE-val:0.09526
+ R2-val:0.35609, sparsity:5.37
+
+
+Training completed in 13:13:02.81 for 500 hyperparameter settings.
+
+MSE-test:0.09846
+ R2-test:0.38623
+ Sparsity:5.87
+
+Training completed in 00:06:01.21
+

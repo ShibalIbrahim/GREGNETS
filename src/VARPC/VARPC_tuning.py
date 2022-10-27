@@ -73,10 +73,10 @@ if args.time_series == "volume":
     args.learning_rate = 2.5e-1
     args.convergence_tolerance = 1e-5
 elif args.time_series == "volatilities":
-    args.pre_estimator_learning_rate = 10.0
+    args.pre_estimator_learning_rate = 5.0
     args.pre_estimator_lam = 1e-3
     args.learning_rate = 2.5
-    args.convergence_tolerance = 1e-5
+    args.convergence_tolerance = 1e-6
 
 if args.KG_mask=="None":
     args.KG_mask = None
